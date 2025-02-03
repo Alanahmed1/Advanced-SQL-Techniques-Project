@@ -157,9 +157,11 @@ ORDER BY career_length DESC;
 SELECT p.nameGiven,
         sd.yearid AS starting_year, sd.teamid AS starting_team, 
         sf.yearid AS ending_year, sf.teamid AS ending_team
+
 FROM players AS p INNER join salaries AS sd 
      ON p.playerid = sd.playerid
      AND EXTRACT(YEAR FROM p.debut) = sd.yearid
+     
      INNER JOIN salaries AS sf 
      ON p.playerid = sf.playerid
      AND EXTRACT (YEAR FROM p.finalGame) = sf.yearid;
