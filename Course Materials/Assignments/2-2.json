@@ -1,0 +1,3442 @@
+[
+  {
+    "teamid": "ANA",
+    "umulative_sum_millions": "31.1"
+  },
+  {
+    "teamid": "ANA",
+    "umulative_sum_millions": "72.4"
+  },
+  {
+    "teamid": "ANA",
+    "umulative_sum_millions": "127.8"
+  },
+  {
+    "teamid": "ANA",
+    "umulative_sum_millions": "179.3"
+  },
+  {
+    "teamid": "ANA",
+    "umulative_sum_millions": "226.8"
+  },
+  {
+    "teamid": "ANA",
+    "umulative_sum_millions": "288.5"
+  },
+  {
+    "teamid": "ANA",
+    "umulative_sum_millions": "367.6"
+  },
+  {
+    "teamid": "ANA",
+    "umulative_sum_millions": "468.1"
+  },
+  {
+    "teamid": "ARI",
+    "umulative_sum_millions": "32.3"
+  },
+  {
+    "teamid": "ARI",
+    "umulative_sum_millions": "101.1"
+  },
+  {
+    "teamid": "ARI",
+    "umulative_sum_millions": "182.1"
+  },
+  {
+    "teamid": "ARI",
+    "umulative_sum_millions": "267.2"
+  },
+  {
+    "teamid": "ARI",
+    "umulative_sum_millions": "370.0"
+  },
+  {
+    "teamid": "ARI",
+    "umulative_sum_millions": "450.6"
+  },
+  {
+    "teamid": "ARI",
+    "umulative_sum_millions": "520.4"
+  },
+  {
+    "teamid": "ARI",
+    "umulative_sum_millions": "582.7"
+  },
+  {
+    "teamid": "ARI",
+    "umulative_sum_millions": "642.4"
+  },
+  {
+    "teamid": "ARI",
+    "umulative_sum_millions": "694.5"
+  },
+  {
+    "teamid": "ARI",
+    "umulative_sum_millions": "760.7"
+  },
+  {
+    "teamid": "ARI",
+    "umulative_sum_millions": "833.8"
+  },
+  {
+    "teamid": "ARI",
+    "umulative_sum_millions": "894.5"
+  },
+  {
+    "teamid": "ARI",
+    "umulative_sum_millions": "948.2"
+  },
+  {
+    "teamid": "ARI",
+    "umulative_sum_millions": "1022.0"
+  },
+  {
+    "teamid": "ARI",
+    "umulative_sum_millions": "1112.1"
+  },
+  {
+    "teamid": "ARI",
+    "umulative_sum_millions": "1210.0"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "14.8"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "31.9"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "48.5"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "61.2"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "72.3"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "86.9"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "105.3"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "139.9"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "181.5"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "230.9"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "278.1"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "327.8"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "380.1"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "441.3"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "514.4"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "599.0"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "690.9"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "783.8"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "890.0"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "980.2"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "1066.7"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "1156.8"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "1244.1"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "1346.5"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "1443.2"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "1527.6"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "1614.6"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "1697.5"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "1785.3"
+  },
+  {
+    "teamid": "ATL",
+    "umulative_sum_millions": "1882.9"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "11.6"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "24.6"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "38.5"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "52.0"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "60.3"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "69.9"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "87.5"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "111.2"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "140.3"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "179.2"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "223.1"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "277.6"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "336.1"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "408.5"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "489.1"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "570.6"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "638.2"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "698.6"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "772.5"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "824.1"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "898.1"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "970.6"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "1063.8"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "1131.0"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "1198.1"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "1279.7"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "1365.0"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "1442.4"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "1526.8"
+  },
+  {
+    "teamid": "BAL",
+    "umulative_sum_millions": "1630.2"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "10.9"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "25.3"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "35.4"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "49.3"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "66.8"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "87.4"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "122.5"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "166.2"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "203.3"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "241.1"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "273.6"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "316.0"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "359.5"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "416.3"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "479.8"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "557.7"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "667.8"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "776.1"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "876.1"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "1003.4"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "1126.9"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "1247.0"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "1390.0"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "1523.4"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "1644.8"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "1807.2"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "1969.0"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "2142.2"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "2293.7"
+  },
+  {
+    "teamid": "BOS",
+    "umulative_sum_millions": "2432.7"
+  },
+  {
+    "teamid": "CAL",
+    "umulative_sum_millions": "14.4"
+  },
+  {
+    "teamid": "CAL",
+    "umulative_sum_millions": "28.9"
+  },
+  {
+    "teamid": "CAL",
+    "umulative_sum_millions": "41.7"
+  },
+  {
+    "teamid": "CAL",
+    "umulative_sum_millions": "53.6"
+  },
+  {
+    "teamid": "CAL",
+    "umulative_sum_millions": "68.7"
+  },
+  {
+    "teamid": "CAL",
+    "umulative_sum_millions": "90.5"
+  },
+  {
+    "teamid": "CAL",
+    "umulative_sum_millions": "123.5"
+  },
+  {
+    "teamid": "CAL",
+    "umulative_sum_millions": "158.3"
+  },
+  {
+    "teamid": "CAL",
+    "umulative_sum_millions": "186.9"
+  },
+  {
+    "teamid": "CAL",
+    "umulative_sum_millions": "212.0"
+  },
+  {
+    "teamid": "CAL",
+    "umulative_sum_millions": "243.2"
+  },
+  {
+    "teamid": "CAL",
+    "umulative_sum_millions": "272.0"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "9.8"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "20.3"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "30.9"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "37.3"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "44.6"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "54.1"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "71.0"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "101.1"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "140.8"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "180.0"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "227.0"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "272.1"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "329.9"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "368.2"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "393.8"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "424.9"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "490.6"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "547.7"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "598.7"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "663.9"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "739.1"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "841.8"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "950.5"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "1071.7"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "1167.7"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "1273.3"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "1401.0"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "1498.0"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "1618.0"
+  },
+  {
+    "teamid": "CHA",
+    "umulative_sum_millions": "1699.9"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "12.7"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "29.9"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "44.2"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "57.3"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "68.0"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "81.6"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "104.8"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "134.6"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "174.0"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "210.3"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "239.8"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "272.9"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "315.1"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "365.9"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "428.2"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "488.8"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "553.5"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "629.2"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "709.0"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "799.6"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "886.6"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "981.1"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "1080.7"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "1199.1"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "1333.9"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "1480.5"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "1605.5"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "1693.7"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "1794.3"
+  },
+  {
+    "teamid": "CHN",
+    "umulative_sum_millions": "1859.8"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "8.4"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "20.3"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "29.5"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "38.4"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "49.5"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "63.9"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "90.2"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "126.1"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "171.0"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "212.0"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "255.1"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "297.6"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "347.4"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "370.4"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "404.4"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "451.2"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "500.2"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "545.3"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "604.6"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "651.2"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "713.1"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "774.0"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "842.6"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "916.7"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "990.2"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "1062.0"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "1137.9"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "1220.2"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "1326.6"
+  },
+  {
+    "teamid": "CIN",
+    "umulative_sum_millions": "1434.8"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "6.6"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "14.4"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "22.9"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "31.8"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "40.9"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "55.4"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "73.0"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "82.4"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "101.0"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "131.5"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "169.4"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "217.5"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "274.3"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "335.1"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "408.1"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "484.0"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "577.1"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "656.0"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "704.6"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "738.9"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "780.4"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "836.5"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "898.1"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "977.1"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "1058.7"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "1119.9"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "1168.7"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "1247.1"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "1322.9"
+  },
+  {
+    "teamid": "CLE",
+    "umulative_sum_millions": "1405.0"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "10.4"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "34.2"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "68.4"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "108.6"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "152.1"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "202.6"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "264.6"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "325.7"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "397.2"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "454.1"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "521.2"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "586.7"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "634.5"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "675.8"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "729.8"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "798.5"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "873.7"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "957.9"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "1046.0"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "1124.1"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "1198.5"
+  },
+  {
+    "teamid": "COL",
+    "umulative_sum_millions": "1293.9"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "10.3"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "22.7"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "34.8"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "47.7"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "62.8"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "80.4"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "104.3"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "131.6"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "169.7"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "211.2"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "248.2"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "271.7"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "288.9"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "313.0"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "349.5"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "407.7"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "461.2"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "516.2"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "565.4"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "612.2"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "681.3"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "763.9"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "858.7"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "996.4"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "1111.5"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "1234.4"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "1340.1"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "1472.4"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "1618.3"
+  },
+  {
+    "teamid": "DET",
+    "umulative_sum_millions": "1771.2"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "19.3"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "41.0"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "65.5"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "96.5"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "145.2"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "186.5"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "207.6"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "227.5"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "263.2"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "305.2"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "354.7"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "396.8"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "457.2"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "471.9"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "502.4"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "524.2"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "561.0"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "618.1"
+  },
+  {
+    "teamid": "FLO",
+    "umulative_sum_millions": "675.0"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "10.0"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "19.9"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "32.5"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "44.8"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "59.8"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "78.1"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "91.0"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "106.4"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "136.6"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "169.7"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "203.9"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "232.4"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "267.2"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "309.5"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "364.4"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "415.7"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "476.3"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "539.8"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "610.8"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "686.2"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "763.0"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "851.7"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "939.5"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "1028.4"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "1131.4"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "1223.7"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "1294.4"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "1355.1"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "1373.0"
+  },
+  {
+    "teamid": "HOU",
+    "umulative_sum_millions": "1408.1"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "9.3"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "22.4"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "34.2"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "48.7"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "67.4"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "90.8"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "117.1"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "151.0"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "192.4"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "232.9"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "262.4"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "282.7"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "317.4"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "354.2"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "380.5"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "403.9"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "439.3"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "486.6"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "527.1"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "574.7"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "611.6"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "658.9"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "726.0"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "784.2"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "854.7"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "926.2"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "961.9"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "1022.8"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "1102.9"
+  },
+  {
+    "teamid": "KCA",
+    "umulative_sum_millions": "1177.5"
+  },
+  {
+    "teamid": "LAA",
+    "umulative_sum_millions": "94.9"
+  },
+  {
+    "teamid": "LAA",
+    "umulative_sum_millions": "198.3"
+  },
+  {
+    "teamid": "LAA",
+    "umulative_sum_millions": "307.6"
+  },
+  {
+    "teamid": "LAA",
+    "umulative_sum_millions": "426.8"
+  },
+  {
+    "teamid": "LAA",
+    "umulative_sum_millions": "540.5"
+  },
+  {
+    "teamid": "LAA",
+    "umulative_sum_millions": "645.5"
+  },
+  {
+    "teamid": "LAA",
+    "umulative_sum_millions": "784.0"
+  },
+  {
+    "teamid": "LAA",
+    "umulative_sum_millions": "938.5"
+  },
+  {
+    "teamid": "LAA",
+    "umulative_sum_millions": "1062.7"
+  },
+  {
+    "teamid": "LAA",
+    "umulative_sum_millions": "1184.7"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "11.0"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "25.9"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "39.6"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "56.4"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "77.5"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "98.8"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "131.6"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "176.4"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "215.7"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "253.7"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "293.0"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "328.3"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "373.7"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "422.5"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "503.4"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "591.3"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "700.4"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "795.3"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "900.9"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "993.8"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "1076.8"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "1175.2"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "1283.7"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "1402.3"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "1502.7"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "1598.1"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "1702.2"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "1797.4"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "2020.8"
+  },
+  {
+    "teamid": "LAN",
+    "umulative_sum_millions": "2237.8"
+  },
+  {
+    "teamid": "MIA",
+    "umulative_sum_millions": "118.1"
+  },
+  {
+    "teamid": "MIA",
+    "umulative_sum_millions": "151.7"
+  },
+  {
+    "teamid": "MIA",
+    "umulative_sum_millions": "193.5"
+  },
+  {
+    "teamid": "MIL",
+    "umulative_sum_millions": "33.9"
+  },
+  {
+    "teamid": "MIL",
+    "umulative_sum_millions": "77.3"
+  },
+  {
+    "teamid": "MIL",
+    "umulative_sum_millions": "113.8"
+  },
+  {
+    "teamid": "MIL",
+    "umulative_sum_millions": "157.7"
+  },
+  {
+    "teamid": "MIL",
+    "umulative_sum_millions": "208.0"
+  },
+  {
+    "teamid": "MIL",
+    "umulative_sum_millions": "248.6"
+  },
+  {
+    "teamid": "MIL",
+    "umulative_sum_millions": "276.1"
+  },
+  {
+    "teamid": "MIL",
+    "umulative_sum_millions": "316.1"
+  },
+  {
+    "teamid": "MIL",
+    "umulative_sum_millions": "373.6"
+  },
+  {
+    "teamid": "MIL",
+    "umulative_sum_millions": "444.6"
+  },
+  {
+    "teamid": "MIL",
+    "umulative_sum_millions": "525.6"
+  },
+  {
+    "teamid": "MIL",
+    "umulative_sum_millions": "605.7"
+  },
+  {
+    "teamid": "MIL",
+    "umulative_sum_millions": "686.8"
+  },
+  {
+    "teamid": "MIL",
+    "umulative_sum_millions": "772.3"
+  },
+  {
+    "teamid": "MIL",
+    "umulative_sum_millions": "870.0"
+  },
+  {
+    "teamid": "MIL",
+    "umulative_sum_millions": "946.9"
+  },
+  {
+    "teamid": "MIL",
+    "umulative_sum_millions": "1048.2"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "5.8"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "14.5"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "20.9"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "33.4"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "48.9"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "63.5"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "86.9"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "114.9"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "143.1"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "171.6"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "197.0"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "220.1"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "254.2"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "282.1"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "303.3"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "319.9"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "344.0"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "384.4"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "439.9"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "493.5"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "549.7"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "613.1"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "684.5"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "741.5"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "806.8"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "904.3"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "1017.1"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "1111.1"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "1186.5"
+  },
+  {
+    "teamid": "MIN",
+    "umulative_sum_millions": "1270.2"
+  },
+  {
+    "teamid": "ML4",
+    "umulative_sum_millions": "11.3"
+  },
+  {
+    "teamid": "ML4",
+    "umulative_sum_millions": "21.2"
+  },
+  {
+    "teamid": "ML4",
+    "umulative_sum_millions": "28.5"
+  },
+  {
+    "teamid": "ML4",
+    "umulative_sum_millions": "36.9"
+  },
+  {
+    "teamid": "ML4",
+    "umulative_sum_millions": "48.5"
+  },
+  {
+    "teamid": "ML4",
+    "umulative_sum_millions": "68.2"
+  },
+  {
+    "teamid": "ML4",
+    "umulative_sum_millions": "91.3"
+  },
+  {
+    "teamid": "ML4",
+    "umulative_sum_millions": "122.3"
+  },
+  {
+    "teamid": "ML4",
+    "umulative_sum_millions": "146.1"
+  },
+  {
+    "teamid": "ML4",
+    "umulative_sum_millions": "170.5"
+  },
+  {
+    "teamid": "ML4",
+    "umulative_sum_millions": "188.3"
+  },
+  {
+    "teamid": "ML4",
+    "umulative_sum_millions": "210.0"
+  },
+  {
+    "teamid": "ML4",
+    "umulative_sum_millions": "233.6"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "9.5"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "20.6"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "27.5"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "37.1"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "50.9"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "67.5"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "78.2"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "94.1"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "113.0"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "132.1"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "144.4"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "160.7"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "180.0"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "190.6"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "208.5"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "241.5"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "276.7"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "315.4"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "367.3"
+  },
+  {
+    "teamid": "MON",
+    "umulative_sum_millions": "408.2"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "14.2"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "32.7"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "49.8"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "69.3"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "86.4"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "107.3"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "134.6"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "172.2"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "214.8"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "260.5"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "309.4"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "363.6"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "425.9"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "492.7"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "579.4"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "671.7"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "784.0"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "909.9"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "1062.7"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "1246.9"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "1455.2"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "1649.9"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "1839.1"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "2047.0"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "2248.5"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "2454.8"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "2657.1"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "2853.6"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "3085.6"
+  },
+  {
+    "teamid": "NYA",
+    "umulative_sum_millions": "3283.1"
+  },
+  {
+    "teamid": "NYM",
+    "umulative_sum_millions": "54.8"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "10.8"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "26.2"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "40.1"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "55.3"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "75.2"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "97.0"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "129.5"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "174.1"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "213.2"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "244.1"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "271.8"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "296.3"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "336.1"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "388.2"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "453.3"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "532.8"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "626.0"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "720.6"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "837.5"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "934.1"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "1035.4"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "1136.5"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "1251.7"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "1389.5"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "1538.9"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "1673.3"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "1792.2"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "1885.5"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "1935.0"
+  },
+  {
+    "teamid": "NYN",
+    "umulative_sum_millions": "1965.7"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "9.1"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "18.8"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "30.5"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "40.2"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "55.8"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "75.7"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "112.7"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "153.7"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "191.6"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "225.7"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "263.5"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "284.7"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "308.7"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "330.0"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "354.5"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "386.4"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "420.2"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "460.3"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "510.5"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "569.9"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "625.4"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "687.6"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "767.0"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "814.9"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "876.8"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "932.1"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "998.6"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "1054.0"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "1114.1"
+  },
+  {
+    "teamid": "OAK",
+    "umulative_sum_millions": "1186.6"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "10.1"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "21.7"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "33.2"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "47.1"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "57.7"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "70.8"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "93.3"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "117.7"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "146.3"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "177.9"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "208.4"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "242.7"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "279.4"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "315.7"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "347.4"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "394.7"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "436.3"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "494.3"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "565.1"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "658.0"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "753.5"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "841.8"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "931.2"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "1029.1"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "1142.1"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "1284.0"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "1457.0"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "1631.5"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "1801.4"
+  },
+  {
+    "teamid": "PHI",
+    "umulative_sum_millions": "1982.4"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "9.2"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "20.1"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "27.7"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "33.7"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "46.5"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "62.0"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "85.6"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "119.6"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "144.4"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "168.6"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "187.0"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "210.0"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "220.8"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "235.8"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "260.5"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "289.5"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "347.2"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "389.6"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "444.4"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "476.6"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "514.7"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "561.4"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "600.0"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "648.7"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "697.4"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "732.3"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "777.4"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "840.3"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "917.4"
+  },
+  {
+    "teamid": "PIT",
+    "umulative_sum_millions": "994.5"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "11.0"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "22.4"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "33.5"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "43.0"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "57.2"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "74.8"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "97.0"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "123.8"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "149.3"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "164.3"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "190.6"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "219.0"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "256.4"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "303.2"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "353.0"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "407.8"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "447.0"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "488.4"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "533.6"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "589.0"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "652.3"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "722.2"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "780.3"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "854.0"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "897.3"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "935.1"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "981.0"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "1036.2"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "1101.8"
+  },
+  {
+    "teamid": "SDN",
+    "umulative_sum_millions": "1177.5"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "4.6"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "10.6"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "12.8"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "20.2"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "30.0"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "42.5"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "58.2"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "81.4"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "114.1"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "143.3"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "179.8"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "221.1"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "262.7"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "316.7"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "370.9"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "429.8"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "504.5"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "584.8"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "671.7"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "753.3"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "841.0"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "929.0"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "1035.4"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "1153.1"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "1252.0"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "1338.5"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "1424.6"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "1506.6"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "1580.6"
+  },
+  {
+    "teamid": "SEA",
+    "umulative_sum_millions": "1673.1"
+  },
+  {
+    "teamid": "SFG",
+    "umulative_sum_millions": "143.5"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "8.2"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "17.2"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "24.5"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "36.8"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "51.8"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "71.1"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "102.1"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "135.3"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "170.3"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "213.0"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "249.4"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "286.6"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "322.2"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "364.7"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "411.3"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "465.1"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "528.3"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "606.6"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "689.5"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "771.5"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "861.7"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "951.8"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "1042.0"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "1118.6"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "1201.6"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "1300.2"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "1418.4"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "1536.1"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "1676.2"
+  },
+  {
+    "teamid": "SFN",
+    "umulative_sum_millions": "1696.2"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "11.8"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "21.7"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "33.5"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "46.3"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "62.4"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "82.9"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "104.8"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "132.4"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "155.7"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "185.0"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "222.1"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "262.4"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "307.8"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "362.5"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "412.3"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "473.8"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "552.3"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "627.0"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "710.7"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "794.0"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "886.1"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "975.0"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "1065.3"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "1164.9"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "1253.4"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "1346.9"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "1452.4"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "1562.7"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "1654.9"
+  },
+  {
+    "teamid": "SLN",
+    "umulative_sum_millions": "1775.6"
+  },
+  {
+    "teamid": "TBA",
+    "umulative_sum_millions": "27.3"
+  },
+  {
+    "teamid": "TBA",
+    "umulative_sum_millions": "66.2"
+  },
+  {
+    "teamid": "TBA",
+    "umulative_sum_millions": "128.9"
+  },
+  {
+    "teamid": "TBA",
+    "umulative_sum_millions": "185.9"
+  },
+  {
+    "teamid": "TBA",
+    "umulative_sum_millions": "220.3"
+  },
+  {
+    "teamid": "TBA",
+    "umulative_sum_millions": "239.9"
+  },
+  {
+    "teamid": "TBA",
+    "umulative_sum_millions": "269.5"
+  },
+  {
+    "teamid": "TBA",
+    "umulative_sum_millions": "299.1"
+  },
+  {
+    "teamid": "TBA",
+    "umulative_sum_millions": "334.1"
+  },
+  {
+    "teamid": "TBA",
+    "umulative_sum_millions": "358.2"
+  },
+  {
+    "teamid": "TBA",
+    "umulative_sum_millions": "402.0"
+  },
+  {
+    "teamid": "TBA",
+    "umulative_sum_millions": "465.3"
+  },
+  {
+    "teamid": "TBA",
+    "umulative_sum_millions": "537.2"
+  },
+  {
+    "teamid": "TBA",
+    "umulative_sum_millions": "578.3"
+  },
+  {
+    "teamid": "TBA",
+    "umulative_sum_millions": "642.5"
+  },
+  {
+    "teamid": "TBA",
+    "umulative_sum_millions": "695.4"
+  },
+  {
+    "teamid": "TBA",
+    "umulative_sum_millions": "768.1"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "7.7"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "14.4"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "15.3"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "20.6"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "32.5"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "47.4"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "65.6"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "95.8"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "132.1"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "165.1"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "199.7"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "238.7"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "292.2"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "348.8"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "425.5"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "496.3"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "584.9"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "690.4"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "793.9"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "849.0"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "904.8"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "973.0"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "1041.4"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "1109.1"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "1177.3"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "1232.5"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "1324.8"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "1445.3"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "1557.8"
+  },
+  {
+    "teamid": "TEX",
+    "umulative_sum_millions": "1670.1"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "8.8"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "21.4"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "31.9"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "44.1"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "60.4"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "78.2"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "98.1"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "142.9"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "190.1"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "233.6"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "284.2"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "313.7"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "360.8"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "412.2"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "457.6"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "502.5"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "579.3"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "656.2"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "707.5"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "757.5"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "803.2"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "874.6"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "956.5"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "1054.3"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "1134.9"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "1197.1"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "1259.7"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "1334.7"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "1461.0"
+  },
+  {
+    "teamid": "TOR",
+    "umulative_sum_millions": "1570.9"
+  },
+  {
+    "teamid": "WAS",
+    "umulative_sum_millions": "48.6"
+  },
+  {
+    "teamid": "WAS",
+    "umulative_sum_millions": "111.7"
+  },
+  {
+    "teamid": "WAS",
+    "umulative_sum_millions": "148.7"
+  },
+  {
+    "teamid": "WAS",
+    "umulative_sum_millions": "203.6"
+  },
+  {
+    "teamid": "WAS",
+    "umulative_sum_millions": "263.6"
+  },
+  {
+    "teamid": "WAS",
+    "umulative_sum_millions": "325.0"
+  },
+  {
+    "teamid": "WAS",
+    "umulative_sum_millions": "388.8"
+  },
+  {
+    "teamid": "WAS",
+    "umulative_sum_millions": "469.7"
+  },
+  {
+    "teamid": "WAS",
+    "umulative_sum_millions": "583.4"
+  },
+  {
+    "teamid": "WAS",
+    "umulative_sum_millions": "715.4"
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "teamid": "HOU",
+    "right_bats": "62.3",
+    "left_bats": "23.9",
+    "both_bats": "13.8"
+  },
+  {
+    "teamid": "NYM",
+    "right_bats": "66.7",
+    "left_bats": "29.2",
+    "both_bats": "4.2"
+  },
+  {
+    "teamid": "BOS",
+    "right_bats": "62.0",
+    "left_bats": "29.4",
+    "both_bats": "8.6"
+  },
+  {
+    "teamid": "TEX",
+    "right_bats": "63.6",
+    "left_bats": "26.4",
+    "both_bats": "9.9"
+  },
+  {
+    "teamid": "CHN",
+    "right_bats": "63.8",
+    "left_bats": "28.5",
+    "both_bats": "7.7"
+  },
+  {
+    "teamid": "PIT",
+    "right_bats": "64.4",
+    "left_bats": "27.4",
+    "both_bats": "8.2"
+  },
+  {
+    "teamid": "CLE",
+    "right_bats": "59.6",
+    "left_bats": "29.7",
+    "both_bats": "10.8"
+  },
+  {
+    "teamid": "ATL",
+    "right_bats": "61.8",
+    "left_bats": "29.2",
+    "both_bats": "8.9"
+  },
+  {
+    "teamid": "NYN",
+    "right_bats": "56.1",
+    "left_bats": "30.2",
+    "both_bats": "13.7"
+  },
+  {
+    "teamid": "BAL",
+    "right_bats": "61.8",
+    "left_bats": "29.6",
+    "both_bats": "8.6"
+  },
+  {
+    "teamid": "SLN",
+    "right_bats": "61.9",
+    "left_bats": "26.5",
+    "both_bats": "11.6"
+  },
+  {
+    "teamid": "MIL",
+    "right_bats": "66.4",
+    "left_bats": "29.4",
+    "both_bats": "4.2"
+  },
+  {
+    "teamid": "WAS",
+    "right_bats": "62.8",
+    "left_bats": "25.5",
+    "both_bats": "11.7"
+  },
+  {
+    "teamid": "ARI",
+    "right_bats": "61.7",
+    "left_bats": "30.4",
+    "both_bats": "7.9"
+  },
+  {
+    "teamid": "OAK",
+    "right_bats": "62.7",
+    "left_bats": "27.5",
+    "both_bats": "9.9"
+  },
+  {
+    "teamid": "SFG",
+    "right_bats": "55.6",
+    "left_bats": "25.9",
+    "both_bats": "18.5"
+  },
+  {
+    "teamid": "SDN",
+    "right_bats": "61.5",
+    "left_bats": "28.9",
+    "both_bats": "9.6"
+  },
+  {
+    "teamid": "LAN",
+    "right_bats": "63.0",
+    "left_bats": "27.8",
+    "both_bats": "9.2"
+  },
+  {
+    "teamid": "TOR",
+    "right_bats": "64.0",
+    "left_bats": "26.6",
+    "both_bats": "9.4"
+  },
+  {
+    "teamid": "CHA",
+    "right_bats": "59.7",
+    "left_bats": "33.5",
+    "both_bats": "6.8"
+  },
+  {
+    "teamid": "MIN",
+    "right_bats": "60.9",
+    "left_bats": "26.7",
+    "both_bats": "12.4"
+  },
+  {
+    "teamid": "CIN",
+    "right_bats": "62.6",
+    "left_bats": "29.4",
+    "both_bats": "8.0"
+  },
+  {
+    "teamid": "MON",
+    "right_bats": "63.8",
+    "left_bats": "24.1",
+    "both_bats": "12.1"
+  },
+  {
+    "teamid": "COL",
+    "right_bats": "63.7",
+    "left_bats": "27.8",
+    "both_bats": "8.5"
+  },
+  {
+    "teamid": "ANA",
+    "right_bats": "61.1",
+    "left_bats": "31.6",
+    "both_bats": "7.3"
+  },
+  {
+    "teamid": "SEA",
+    "right_bats": "61.7",
+    "left_bats": "28.9",
+    "both_bats": "9.4"
+  },
+  {
+    "teamid": "PHI",
+    "right_bats": "58.5",
+    "left_bats": "31.4",
+    "both_bats": "10.2"
+  },
+  {
+    "teamid": "NYA",
+    "right_bats": "58.8",
+    "left_bats": "30.7",
+    "both_bats": "10.5"
+  },
+  {
+    "teamid": "FLO",
+    "right_bats": "66.3",
+    "left_bats": "24.3",
+    "both_bats": "9.4"
+  },
+  {
+    "teamid": "TBA",
+    "right_bats": "59.8",
+    "left_bats": "31.0",
+    "both_bats": "9.2"
+  },
+  {
+    "teamid": "ML4",
+    "right_bats": "59.6",
+    "left_bats": "29.4",
+    "both_bats": "11.0"
+  },
+  {
+    "teamid": "LAA",
+    "right_bats": "68.2",
+    "left_bats": "16.6",
+    "both_bats": "15.2"
+  },
+  {
+    "teamid": "KCA",
+    "right_bats": "64.3",
+    "left_bats": "27.2",
+    "both_bats": "8.5"
+  },
+  {
+    "teamid": "MIA",
+    "right_bats": "64.9",
+    "left_bats": "29.9",
+    "both_bats": "5.2"
+  },
+  {
+    "teamid": "SFN",
+    "right_bats": "61.1",
+    "left_bats": "27.5",
+    "both_bats": "11.3"
+  },
+  {
+    "teamid": "DET",
+    "right_bats": "60.8",
+    "left_bats": "28.6",
+    "both_bats": "10.6"
+  },
+  {
+    "teamid": "CAL",
+    "right_bats": "60.6",
+    "left_bats": "29.3",
+    "both_bats": "10.1"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "teamid": "SFG",
+    "avg_spending_millions": "144"
+  },
+  {
+    "teamid": "LAA",
+    "avg_spending_millions": "118"
+  },
+  {
+    "teamid": "NYA",
+    "avg_spending_millions": "109"
+  },
+  {
+    "teamid": "BOS",
+    "avg_spending_millions": "81"
+  },
+  {
+    "teamid": "LAN",
+    "avg_spending_millions": "75"
+  },
+  {
+    "teamid": "WAS",
+    "avg_spending_millions": "72"
+  },
+  {
+    "teamid": "ARI",
+    "avg_spending_millions": "71"
+  },
+  {
+    "teamid": "PHI",
+    "avg_spending_millions": "66"
+  }
+]

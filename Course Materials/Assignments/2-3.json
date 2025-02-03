@@ -1,0 +1,132 @@
+[
+  {
+    "teamid": "ARI",
+    "yearid": 2012,
+    "round": "1.02"
+  },
+  {
+    "teamid": "ATL",
+    "yearid": 2005,
+    "round": "1.07"
+  },
+  {
+    "teamid": "BAL",
+    "yearid": 2007,
+    "round": "1.06"
+  },
+  {
+    "teamid": "BOS",
+    "yearid": 2004,
+    "round": "1.00"
+  },
+  {
+    "teamid": "CHA",
+    "yearid": 2008,
+    "round": "1.07"
+  },
+  {
+    "teamid": "CHN",
+    "yearid": 2007,
+    "round": "1.08"
+  },
+  {
+    "teamid": "CIN",
+    "yearid": 2010,
+    "round": "1.06"
+  },
+  {
+    "teamid": "CLE",
+    "yearid": 2009,
+    "round": "1.06"
+  },
+  {
+    "teamid": "COL",
+    "yearid": 2011,
+    "round": "1.05"
+  },
+  {
+    "teamid": "DET",
+    "yearid": 2009,
+    "round": "1.11"
+  },
+  {
+    "teamid": "HOU",
+    "yearid": 2008,
+    "round": "1.03"
+  },
+  {
+    "teamid": "KCA",
+    "yearid": 2012,
+    "round": "1.02"
+  },
+  {
+    "teamid": "LAA",
+    "yearid": 2013,
+    "round": "1.06"
+  },
+  {
+    "teamid": "LAN",
+    "yearid": 2005,
+    "round": "1.08"
+  },
+  {
+    "teamid": "MIL",
+    "yearid": 2014,
+    "round": "1.05"
+  },
+  {
+    "teamid": "MIN",
+    "yearid": 2011,
+    "round": "1.02"
+  },
+  {
+    "teamid": "NYA",
+    "yearid": 2003,
+    "round": "1.06"
+  },
+  {
+    "teamid": "NYN",
+    "yearid": 2005,
+    "round": "1.04"
+  },
+  {
+    "teamid": "OAK",
+    "yearid": 2012,
+    "round": "1.05"
+  },
+  {
+    "teamid": "PHI",
+    "yearid": 2008,
+    "round": "1.03"
+  },
+  {
+    "teamid": "SDN",
+    "yearid": 2012,
+    "round": "1.04"
+  },
+  {
+    "teamid": "SEA",
+    "yearid": 2007,
+    "round": "1.04"
+  },
+  {
+    "teamid": "SFN",
+    "yearid": 2007,
+    "round": "1.04"
+  },
+  {
+    "teamid": "SLN",
+    "yearid": 2007,
+    "round": "1.07"
+  },
+  {
+    "teamid": "TEX",
+    "yearid": 2007,
+    "round": "1.04"
+  },
+  {
+    "teamid": "TOR",
+    "yearid": 2008,
+    "round": "1.05"
+  }
+]

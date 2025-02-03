@@ -1,0 +1,6386 @@
+[
+  {
+    "namegiven": "Robert Clifford",
+    "starting_year": 1986,
+    "starting_team": "ATL",
+    "ending_year": 1986,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Joseph Michael",
+    "starting_year": 1986,
+    "starting_team": "CHN",
+    "ending_year": 1986,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "William Craig",
+    "starting_year": 1986,
+    "starting_team": "OAK",
+    "ending_year": 1986,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Joel Jacob",
+    "starting_year": 1986,
+    "starting_team": "CHA",
+    "ending_year": 1987,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Edward R.",
+    "starting_year": 1986,
+    "starting_team": "ATL",
+    "ending_year": 1988,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Oswald Jose",
+    "starting_year": 1988,
+    "starting_team": "BAL",
+    "ending_year": 1988,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Steven Clark",
+    "starting_year": 1988,
+    "starting_team": "BOS",
+    "ending_year": 1988,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "John Howard",
+    "starting_year": 1988,
+    "starting_team": "BOS",
+    "ending_year": 1988,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Frank Lawrence",
+    "starting_year": 1988,
+    "starting_team": "CAL",
+    "ending_year": 1988,
+    "ending_team": "CAL"
+  },
+  {
+    "namegiven": "Edward John",
+    "starting_year": 1986,
+    "starting_team": "NYN",
+    "ending_year": 1988,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Juan Manuel",
+    "starting_year": 1986,
+    "starting_team": "ML4",
+    "ending_year": 1988,
+    "ending_team": "ML4"
+  },
+  {
+    "namegiven": "Ulises",
+    "starting_year": 1988,
+    "starting_team": "SDN",
+    "ending_year": 1988,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Jose Isabel",
+    "starting_year": 1988,
+    "starting_team": "TEX",
+    "ending_year": 1988,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Jeffrey Barret",
+    "starting_year": 1989,
+    "starting_team": "ATL",
+    "ending_year": 1989,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Edward Morris",
+    "starting_year": 1989,
+    "starting_team": "ATL",
+    "ending_year": 1989,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Thomas Lee",
+    "starting_year": 1987,
+    "starting_team": "CLE",
+    "ending_year": 1989,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Matthew Littleton",
+    "starting_year": 1989,
+    "starting_team": "KCA",
+    "ending_year": 1989,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Bryan Richard",
+    "starting_year": 1986,
+    "starting_team": "ML4",
+    "ending_year": 1989,
+    "ending_team": "ML4"
+  },
+  {
+    "namegiven": "Tanner Joe",
+    "starting_year": 1988,
+    "starting_team": "ML4",
+    "ending_year": 1989,
+    "ending_team": "ML4"
+  },
+  {
+    "namegiven": "Jeffrey Allen",
+    "starting_year": 1989,
+    "starting_team": "ML4",
+    "ending_year": 1989,
+    "ending_team": "ML4"
+  },
+  {
+    "namegiven": "Daniel Lee",
+    "starting_year": 1989,
+    "starting_team": "SDN",
+    "ending_year": 1989,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Richard Fred",
+    "starting_year": 1989,
+    "starting_team": "KCA",
+    "ending_year": 1990,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Victor Manuel",
+    "starting_year": 1990,
+    "starting_team": "ATL",
+    "ending_year": 1990,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Eric Paul",
+    "starting_year": 1989,
+    "starting_team": "BOS",
+    "ending_year": 1990,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Randy Scott",
+    "starting_year": 1986,
+    "starting_team": "SFN",
+    "ending_year": 1990,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Kent McKay",
+    "starting_year": 1989,
+    "starting_team": "CAL",
+    "ending_year": 1990,
+    "ending_team": "CAL"
+  },
+  {
+    "namegiven": "John Kirk",
+    "starting_year": 1987,
+    "starting_team": "KCA",
+    "ending_year": 1990,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Jerry Scott",
+    "starting_year": 1990,
+    "starting_team": "CHA",
+    "ending_year": 1990,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Jose",
+    "starting_year": 1987,
+    "starting_team": "SEA",
+    "ending_year": 1990,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Timothy Dean",
+    "starting_year": 1985,
+    "starting_team": "OAK",
+    "ending_year": 1990,
+    "ending_team": "CIN"
+  },
+  {
+    "namegiven": "Michael Joseph",
+    "starting_year": 1989,
+    "starting_team": "CIN",
+    "ending_year": 1990,
+    "ending_team": "CIN"
+  },
+  {
+    "namegiven": "Rolando Audley",
+    "starting_year": 1988,
+    "starting_team": "CHN",
+    "ending_year": 1990,
+    "ending_team": "CIN"
+  },
+  {
+    "namegiven": "Kevin Gerard",
+    "starting_year": 1990,
+    "starting_team": "CLE",
+    "ending_year": 1990,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Brian Andrew",
+    "starting_year": 1989,
+    "starting_team": "DET",
+    "ending_year": 1990,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "William Derrick",
+    "starting_year": 1989,
+    "starting_team": "ML4",
+    "ending_year": 1990,
+    "ending_team": "ML4"
+  },
+  {
+    "namegiven": "Narciso Chicho",
+    "starting_year": 1990,
+    "starting_team": "ML4",
+    "ending_year": 1990,
+    "ending_team": "ML4"
+  },
+  {
+    "namegiven": "Howard Earl",
+    "starting_year": 1990,
+    "starting_team": "MON",
+    "ending_year": 1990,
+    "ending_team": "MON"
+  },
+  {
+    "namegiven": "Jeffrey Joseph",
+    "starting_year": 1986,
+    "starting_team": "TOR",
+    "ending_year": 1990,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Steven Bernard",
+    "starting_year": 1990,
+    "starting_team": "OAK",
+    "ending_year": 1990,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Charles Ray",
+    "starting_year": 1990,
+    "starting_team": "PHI",
+    "ending_year": 1990,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Andres Confesor",
+    "starting_year": 1990,
+    "starting_team": "SFN",
+    "ending_year": 1990,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Kevin Donnell",
+    "starting_year": 1990,
+    "starting_team": "TEX",
+    "ending_year": 1990,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Ramon",
+    "starting_year": 1990,
+    "starting_team": "TEX",
+    "ending_year": 1990,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Dana Ervin",
+    "starting_year": 1990,
+    "starting_team": "BOS",
+    "ending_year": 1991,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Bruce Edward",
+    "starting_year": 1991,
+    "starting_team": "CLE",
+    "ending_year": 1991,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Daniel Michael",
+    "starting_year": 1991,
+    "starting_team": "DET",
+    "ending_year": 1991,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Jose",
+    "starting_year": 1991,
+    "starting_team": "HOU",
+    "ending_year": 1991,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Jeffrey Robert",
+    "starting_year": 1986,
+    "starting_team": "LAN",
+    "ending_year": 1991,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Silvestre",
+    "starting_year": 1988,
+    "starting_team": "TOR",
+    "ending_year": 1991,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Eric Carl",
+    "starting_year": 1987,
+    "starting_team": "SDN",
+    "ending_year": 1991,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Tracy Donald",
+    "starting_year": 1986,
+    "starting_team": "CIN",
+    "ending_year": 1991,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Peter Alexander",
+    "starting_year": 1992,
+    "starting_team": "BOS",
+    "ending_year": 1992,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "John Daniel",
+    "starting_year": 1986,
+    "starting_team": "SLN",
+    "ending_year": 1992,
+    "ending_team": "CAL"
+  },
+  {
+    "namegiven": "Robert Richard",
+    "starting_year": 1989,
+    "starting_team": "CAL",
+    "ending_year": 1992,
+    "ending_team": "CAL"
+  },
+  {
+    "namegiven": "Glenn Erick",
+    "starting_year": 1986,
+    "starting_team": "ML4",
+    "ending_year": 1992,
+    "ending_team": "CIN"
+  },
+  {
+    "namegiven": "Steven Robert",
+    "starting_year": 1989,
+    "starting_team": "CLE",
+    "ending_year": 1992,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "David Grant",
+    "starting_year": 1990,
+    "starting_team": "HOU",
+    "ending_year": 1992,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Eric Steven",
+    "starting_year": 1986,
+    "starting_team": "DET",
+    "ending_year": 1992,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Juan Antonio",
+    "starting_year": 1992,
+    "starting_team": "HOU",
+    "ending_year": 1992,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Kalvoski",
+    "starting_year": 1986,
+    "starting_team": "CIN",
+    "ending_year": 1992,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Gregory Inman",
+    "starting_year": 1986,
+    "starting_team": "SLN",
+    "ending_year": 1992,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Wallace Reid",
+    "starting_year": 1987,
+    "starting_team": "PHI",
+    "ending_year": 1992,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Carl Ray",
+    "starting_year": 1990,
+    "starting_team": "SLN",
+    "ending_year": 1992,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Scott Michael",
+    "starting_year": 1990,
+    "starting_team": "OAK",
+    "ending_year": 1992,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Jeffrey Mark",
+    "starting_year": 1987,
+    "starting_team": "DET",
+    "ending_year": 1992,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "George Kevin",
+    "starting_year": 1993,
+    "starting_team": "BAL",
+    "ending_year": 1993,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "John Preston",
+    "starting_year": 1993,
+    "starting_team": "BAL",
+    "ending_year": 1993,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Jeffrey Scott",
+    "starting_year": 1989,
+    "starting_team": "CIN",
+    "ending_year": 1993,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Eric Girard",
+    "starting_year": 1989,
+    "starting_team": "HOU",
+    "ending_year": 1993,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Thomas Joseph",
+    "starting_year": 1991,
+    "starting_team": "CLE",
+    "ending_year": 1993,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "William Scott",
+    "starting_year": 1989,
+    "starting_team": "CIN",
+    "ending_year": 1993,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Clifford Raphael",
+    "starting_year": 1990,
+    "starting_team": "CAL",
+    "ending_year": 1993,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Carlos Cesar",
+    "starting_year": 1990,
+    "starting_team": "KCA",
+    "ending_year": 1993,
+    "ending_team": "ML4"
+  },
+  {
+    "namegiven": "Williams",
+    "starting_year": 1992,
+    "starting_team": "ML4",
+    "ending_year": 1993,
+    "ending_team": "ML4"
+  },
+  {
+    "namegiven": "Michael Anthony",
+    "starting_year": 1993,
+    "starting_team": "NYN",
+    "ending_year": 1993,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Kelly Robert",
+    "starting_year": 1986,
+    "starting_team": "SFN",
+    "ending_year": 1993,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Shawn Patrick",
+    "starting_year": 1987,
+    "starting_team": "LAN",
+    "ending_year": 1993,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Darrell Edward",
+    "starting_year": 1993,
+    "starting_team": "SDN",
+    "ending_year": 1993,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Gregory Scott",
+    "starting_year": 1993,
+    "starting_team": "SFN",
+    "ending_year": 1993,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Rodney Lee",
+    "starting_year": 1990,
+    "starting_team": "SLN",
+    "ending_year": 1993,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Osvaldo",
+    "starting_year": 1990,
+    "starting_team": "OAK",
+    "ending_year": 1993,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Lester Wayne",
+    "starting_year": 1987,
+    "starting_team": "CHN",
+    "ending_year": 1993,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Tracy Michael",
+    "starting_year": 1987,
+    "starting_team": "LAN",
+    "ending_year": 1993,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "William Emisael",
+    "starting_year": 1993,
+    "starting_team": "TOR",
+    "ending_year": 1993,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Mark Alan",
+    "starting_year": 1987,
+    "starting_team": "BAL",
+    "ending_year": 1994,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "William Albert",
+    "starting_year": 1990,
+    "starting_team": "MON",
+    "ending_year": 1994,
+    "ending_team": "CAL"
+  },
+  {
+    "namegiven": "Jeffrey William",
+    "starting_year": 1993,
+    "starting_team": "CHA",
+    "ending_year": 1994,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Blaise Francis",
+    "starting_year": 1994,
+    "starting_team": "CHN",
+    "ending_year": 1994,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Junior Francisco",
+    "starting_year": 1989,
+    "starting_team": "TOR",
+    "ending_year": 1994,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "James Cory",
+    "starting_year": 1986,
+    "starting_team": "CLE",
+    "ending_year": 1994,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Gary Anthony",
+    "starting_year": 1989,
+    "starting_team": "MIN",
+    "ending_year": 1994,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Keith John",
+    "starting_year": 1994,
+    "starting_team": "MIN",
+    "ending_year": 1994,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Teodoro Valenzuela",
+    "starting_year": 1985,
+    "starting_team": "ML4",
+    "ending_year": 1994,
+    "ending_team": "ML4"
+  },
+  {
+    "namegiven": "Jonathan",
+    "starting_year": 1992,
+    "starting_team": "MON",
+    "ending_year": 1994,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Bienvenido",
+    "starting_year": 1992,
+    "starting_team": "ATL",
+    "ending_year": 1994,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "James Gregory",
+    "starting_year": 1989,
+    "starting_team": "CHA",
+    "ending_year": 1994,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Robert Thomas",
+    "starting_year": 1986,
+    "starting_team": "CHA",
+    "ending_year": 1994,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Terence Roy",
+    "starting_year": 1987,
+    "starting_team": "CIN",
+    "ending_year": 1994,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Erik Daniel",
+    "starting_year": 1991,
+    "starting_team": "CHN",
+    "ending_year": 1994,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "James Lavon",
+    "starting_year": 1994,
+    "starting_team": "TEX",
+    "ending_year": 1994,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Jose",
+    "starting_year": 1994,
+    "starting_team": "ATL",
+    "ending_year": 1995,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "James Michael",
+    "starting_year": 1995,
+    "starting_team": "BAL",
+    "ending_year": 1995,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Tyrone Eugene",
+    "starting_year": 1989,
+    "starting_team": "MON",
+    "ending_year": 1995,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Andrew Neal",
+    "starting_year": 1986,
+    "starting_team": "CLE",
+    "ending_year": 1995,
+    "ending_team": "CAL"
+  },
+  {
+    "namegiven": "John Martin",
+    "starting_year": 1986,
+    "starting_team": "SDN",
+    "ending_year": 1995,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Joseph Robert",
+    "starting_year": 1993,
+    "starting_team": "ML4",
+    "ending_year": 1995,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Jeremy Stuart",
+    "starting_year": 1991,
+    "starting_team": "SDN",
+    "ending_year": 1995,
+    "ending_team": "FLO"
+  },
+  {
+    "namegiven": "Darrell Lamont",
+    "starting_year": 1993,
+    "starting_team": "FLO",
+    "ending_year": 1995,
+    "ending_team": "FLO"
+  },
+  {
+    "namegiven": "Ross John",
+    "starting_year": 1993,
+    "starting_team": "CIN",
+    "ending_year": 1995,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Edgar Fidel",
+    "starting_year": 1995,
+    "starting_team": "KCA",
+    "ending_year": 1995,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Dilson Dario",
+    "starting_year": 1995,
+    "starting_team": "KCA",
+    "ending_year": 1995,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Dan Patrick",
+    "starting_year": 1995,
+    "starting_team": "MIN",
+    "ending_year": 1995,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Juan Oscar",
+    "starting_year": 1995,
+    "starting_team": "MIN",
+    "ending_year": 1995,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Erik Paul",
+    "starting_year": 1994,
+    "starting_team": "MIN",
+    "ending_year": 1995,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Scott Allen",
+    "starting_year": 1995,
+    "starting_team": "MIN",
+    "ending_year": 1995,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Jacob Jeffery",
+    "starting_year": 1993,
+    "starting_team": "TEX",
+    "ending_year": 1995,
+    "ending_team": "ML4"
+  },
+  {
+    "namegiven": "Ronald Gene",
+    "starting_year": 1995,
+    "starting_team": "ML4",
+    "ending_year": 1995,
+    "ending_team": "ML4"
+  },
+  {
+    "namegiven": "Sidney Dean",
+    "starting_year": 1995,
+    "starting_team": "ML4",
+    "ending_year": 1995,
+    "ending_team": "ML4"
+  },
+  {
+    "namegiven": "Michael Scott",
+    "starting_year": 1986,
+    "starting_team": "KCA",
+    "ending_year": 1995,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Donald Emery",
+    "starting_year": 1995,
+    "starting_team": "NYN",
+    "ending_year": 1995,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Eric James",
+    "starting_year": 1993,
+    "starting_team": "OAK",
+    "ending_year": 1995,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Anthony Eugene",
+    "starting_year": 1993,
+    "starting_team": "PHI",
+    "ending_year": 1995,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Steven Antone",
+    "starting_year": 1994,
+    "starting_team": "CIN",
+    "ending_year": 1995,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Donald Glenn",
+    "starting_year": 1994,
+    "starting_team": "SDN",
+    "ending_year": 1995,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Patrick Alexander",
+    "starting_year": 1993,
+    "starting_team": "SDN",
+    "ending_year": 1995,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Joseph Donald",
+    "starting_year": 1995,
+    "starting_team": "SFN",
+    "ending_year": 1995,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Ramon",
+    "starting_year": 1993,
+    "starting_team": "ATL",
+    "ending_year": 1995,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "James Randall",
+    "starting_year": 1995,
+    "starting_team": "TOR",
+    "ending_year": 1995,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "John Dwight",
+    "starting_year": 1989,
+    "starting_team": "CHN",
+    "ending_year": 1996,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Roger Alan",
+    "starting_year": 1985,
+    "starting_team": "NYN",
+    "ending_year": 1996,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Michael Wayne",
+    "starting_year": 1996,
+    "starting_team": "BAL",
+    "ending_year": 1996,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Alexander",
+    "starting_year": 1996,
+    "starting_team": "BOS",
+    "ending_year": 1996,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "John Harold",
+    "starting_year": 1992,
+    "starting_team": "DET",
+    "ending_year": 1996,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Dwayne Samuel",
+    "starting_year": 1995,
+    "starting_team": "BOS",
+    "ending_year": 1996,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Michael Peter",
+    "starting_year": 1986,
+    "starting_team": "SFN",
+    "ending_year": 1996,
+    "ending_team": "CAL"
+  },
+  {
+    "namegiven": "Brian Lee",
+    "starting_year": 1995,
+    "starting_team": "CHA",
+    "ending_year": 1996,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Joseph David",
+    "starting_year": 1987,
+    "starting_team": "SLN",
+    "ending_year": 1996,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Kirk Edward",
+    "starting_year": 1985,
+    "starting_team": "CAL",
+    "ending_year": 1996,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Leonardo",
+    "starting_year": 1990,
+    "starting_team": "BAL",
+    "ending_year": 1996,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Christopher Andrew",
+    "starting_year": 1988,
+    "starting_team": "CIN",
+    "ending_year": 1996,
+    "ending_team": "CIN"
+  },
+  {
+    "namegiven": "Jorge Manuel",
+    "starting_year": 1995,
+    "starting_team": "COL",
+    "ending_year": 1996,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Claude Jayhawk",
+    "starting_year": 1993,
+    "starting_team": "COL",
+    "ending_year": 1996,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Gregory James",
+    "starting_year": 1993,
+    "starting_team": "DET",
+    "ending_year": 1996,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Mark Allan",
+    "starting_year": 1996,
+    "starting_team": "HOU",
+    "ending_year": 1996,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "James Andrew",
+    "starting_year": 1996,
+    "starting_team": "KCA",
+    "ending_year": 1996,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Richard Allen",
+    "starting_year": 1995,
+    "starting_team": "KCA",
+    "ending_year": 1996,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Leslie Eugene",
+    "starting_year": 1995,
+    "starting_team": "KCA",
+    "ending_year": 1996,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Julio Enrique",
+    "starting_year": 1990,
+    "starting_team": "NYN",
+    "ending_year": 1996,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Michael Joseph",
+    "starting_year": 1996,
+    "starting_team": "MIN",
+    "ending_year": 1996,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Brian Allen",
+    "starting_year": 1995,
+    "starting_team": "ML4",
+    "ending_year": 1996,
+    "ending_team": "ML4"
+  },
+  {
+    "namegiven": "Mark Andrew",
+    "starting_year": 1993,
+    "starting_team": "ML4",
+    "ending_year": 1996,
+    "ending_team": "ML4"
+  },
+  {
+    "namegiven": "Michael Larry",
+    "starting_year": 1996,
+    "starting_team": "ML4",
+    "ending_year": 1996,
+    "ending_team": "ML4"
+  },
+  {
+    "namegiven": "Timothy Layne",
+    "starting_year": 1994,
+    "starting_team": "BOS",
+    "ending_year": 1996,
+    "ending_team": "ML4"
+  },
+  {
+    "namegiven": "Michael Lawrence",
+    "starting_year": 1989,
+    "starting_team": "MIN",
+    "ending_year": 1996,
+    "ending_team": "MON"
+  },
+  {
+    "namegiven": "Ezra Dale",
+    "starting_year": 1996,
+    "starting_team": "NYA",
+    "ending_year": 1996,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Allen Zelmo",
+    "starting_year": 1995,
+    "starting_team": "SLN",
+    "ending_year": 1996,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Kerwin Lamar",
+    "starting_year": 1996,
+    "starting_team": "OAK",
+    "ending_year": 1996,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Richard Thomas",
+    "starting_year": 1996,
+    "starting_team": "PHI",
+    "ending_year": 1996,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Larry Paul",
+    "starting_year": 1996,
+    "starting_team": "PHI",
+    "ending_year": 1996,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Glenn Everett",
+    "starting_year": 1996,
+    "starting_team": "PHI",
+    "ending_year": 1996,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Eugene David",
+    "starting_year": 1995,
+    "starting_team": "PHI",
+    "ending_year": 1996,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Michael Scott",
+    "starting_year": 1986,
+    "starting_team": "KCA",
+    "ending_year": 1996,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Andujar",
+    "starting_year": 1990,
+    "starting_team": "HOU",
+    "ending_year": 1996,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Todd Anthony",
+    "starting_year": 1995,
+    "starting_team": "DET",
+    "ending_year": 1996,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Christopher Louis",
+    "starting_year": 1986,
+    "starting_team": "ML4",
+    "ending_year": 1996,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Kimothy Emil",
+    "starting_year": 1991,
+    "starting_team": "PHI",
+    "ending_year": 1996,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Steven James",
+    "starting_year": 1996,
+    "starting_team": "SFN",
+    "ending_year": 1996,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Christopher Wayne",
+    "starting_year": 1995,
+    "starting_team": "SFN",
+    "ending_year": 1996,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Dax Xenos",
+    "starting_year": 1996,
+    "starting_team": "SFN",
+    "ending_year": 1996,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Robert Randall",
+    "starting_year": 1986,
+    "starting_team": "SFN",
+    "ending_year": 1996,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Desi Bernard",
+    "starting_year": 1996,
+    "starting_team": "SFN",
+    "ending_year": 1996,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Miguel",
+    "starting_year": 1996,
+    "starting_team": "SLN",
+    "ending_year": 1996,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Thomas James",
+    "starting_year": 1993,
+    "starting_team": "SLN",
+    "ending_year": 1996,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Michael Alan",
+    "starting_year": 1987,
+    "starting_team": "DET",
+    "ending_year": 1996,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Kurt Andrew",
+    "starting_year": 1986,
+    "starting_team": "CIN",
+    "ending_year": 1996,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Angelo Benjamin",
+    "starting_year": 1995,
+    "starting_team": "PIT",
+    "ending_year": 1997,
+    "ending_team": "ANA"
+  },
+  {
+    "namegiven": "Mark Clay",
+    "starting_year": 1995,
+    "starting_team": "TEX",
+    "ending_year": 1997,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Vaughn Michael",
+    "starting_year": 1995,
+    "starting_team": "BOS",
+    "ending_year": 1997,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Richard Alan",
+    "starting_year": 1992,
+    "starting_team": "TOR",
+    "ending_year": 1997,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Michael David",
+    "starting_year": 1995,
+    "starting_team": "CHA",
+    "ending_year": 1997,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Jeffrey Scott",
+    "starting_year": 1994,
+    "starting_team": "SEA",
+    "ending_year": 1997,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Ronald Joseph",
+    "starting_year": 1986,
+    "starting_team": "CHA",
+    "ending_year": 1997,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Charles Roger",
+    "starting_year": 1995,
+    "starting_team": "COL",
+    "ending_year": 1997,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Vincent Maurice",
+    "starting_year": 1985,
+    "starting_team": "SLN",
+    "ending_year": 1997,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "John Russell",
+    "starting_year": 1993,
+    "starting_team": "SEA",
+    "ending_year": 1997,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Fernando",
+    "starting_year": 1997,
+    "starting_team": "DET",
+    "ending_year": 1997,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Orlando",
+    "starting_year": 1994,
+    "starting_team": "HOU",
+    "ending_year": 1997,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Scott Kendrick",
+    "starting_year": 1990,
+    "starting_team": "BOS",
+    "ending_year": 1997,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Walter William",
+    "starting_year": 1989,
+    "starting_team": "MIN",
+    "ending_year": 1997,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "James Brian",
+    "starting_year": 1995,
+    "starting_team": "ML4",
+    "ending_year": 1997,
+    "ending_team": "ML4"
+  },
+  {
+    "namegiven": "Angel Luis",
+    "starting_year": 1993,
+    "starting_team": "ML4",
+    "ending_year": 1997,
+    "ending_team": "ML4"
+  },
+  {
+    "namegiven": "Sherman Omar",
+    "starting_year": 1993,
+    "starting_team": "BAL",
+    "ending_year": 1997,
+    "ending_team": "MON"
+  },
+  {
+    "namegiven": "Mariano",
+    "starting_year": 1985,
+    "starting_team": "LAN",
+    "ending_year": 1997,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Richard Alan",
+    "starting_year": 1992,
+    "starting_team": "TOR",
+    "ending_year": 1997,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Mark Robert",
+    "starting_year": 1994,
+    "starting_team": "OAK",
+    "ending_year": 1997,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "William Edward",
+    "starting_year": 1996,
+    "starting_team": "OAK",
+    "ending_year": 1997,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Dane Edward",
+    "starting_year": 1994,
+    "starting_team": "CHA",
+    "ending_year": 1997,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Steven Joseph",
+    "starting_year": 1995,
+    "starting_team": "OAK",
+    "ending_year": 1997,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Michael Randall",
+    "starting_year": 1995,
+    "starting_team": "PHI",
+    "ending_year": 1997,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Edgar Jose",
+    "starting_year": 1997,
+    "starting_team": "PHI",
+    "ending_year": 1997,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "John Edward",
+    "starting_year": 1995,
+    "starting_team": "PIT",
+    "ending_year": 1997,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Paul Gerard",
+    "starting_year": 1995,
+    "starting_team": "TOR",
+    "ending_year": 1997,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Timothy Howard",
+    "starting_year": 1994,
+    "starting_team": "SEA",
+    "ending_year": 1997,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Edwin Amilgar",
+    "starting_year": 1995,
+    "starting_team": "TOR",
+    "ending_year": 1997,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Lee Owen",
+    "starting_year": 1993,
+    "starting_team": "SEA",
+    "ending_year": 1997,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "William Joseph",
+    "starting_year": 1994,
+    "starting_team": "SFN",
+    "ending_year": 1997,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Jose Joaquin",
+    "starting_year": 1988,
+    "starting_team": "BAL",
+    "ending_year": 1997,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Wilson",
+    "starting_year": 1995,
+    "starting_team": "TEX",
+    "ending_year": 1997,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Tilson Manuel",
+    "starting_year": 1996,
+    "starting_team": "TOR",
+    "ending_year": 1997,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Frank Charles",
+    "starting_year": 1993,
+    "starting_team": "MON",
+    "ending_year": 1998,
+    "ending_team": "ANA"
+  },
+  {
+    "namegiven": "Hernando Petrocelli",
+    "starting_year": 1996,
+    "starting_team": "CAL",
+    "ending_year": 1998,
+    "ending_team": "ANA"
+  },
+  {
+    "namegiven": "Damon Wayne",
+    "starting_year": 1996,
+    "starting_team": "OAK",
+    "ending_year": 1998,
+    "ending_team": "ANA"
+  },
+  {
+    "namegiven": "Scott John",
+    "starting_year": 1993,
+    "starting_team": "TOR",
+    "ending_year": 1998,
+    "ending_team": "ARI"
+  },
+  {
+    "namegiven": "Andrew Neal",
+    "starting_year": 1992,
+    "starting_team": "NYA",
+    "ending_year": 1998,
+    "ending_team": "ARI"
+  },
+  {
+    "namegiven": "Adam Christopher",
+    "starting_year": 1998,
+    "starting_team": "ATL",
+    "ending_year": 1998,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Douglas Dean",
+    "starting_year": 1986,
+    "starting_team": "NYA",
+    "ending_year": 1998,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Arthur Louis",
+    "starting_year": 1993,
+    "starting_team": "MON",
+    "ending_year": 1998,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Ricardo",
+    "starting_year": 1995,
+    "starting_team": "TOR",
+    "ending_year": 1998,
+    "ending_team": "CIN"
+  },
+  {
+    "namegiven": "Rick Michael",
+    "starting_year": 1995,
+    "starting_team": "BAL",
+    "ending_year": 1998,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Jason Charles",
+    "starting_year": 1995,
+    "starting_team": "COL",
+    "ending_year": 1998,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Kevin D.",
+    "starting_year": 1989,
+    "starting_team": "DET",
+    "ending_year": 1998,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Peter Joseph",
+    "starting_year": 1986,
+    "starting_team": "TEX",
+    "ending_year": 1998,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Gregory Charles",
+    "starting_year": 1996,
+    "starting_team": "DET",
+    "ending_year": 1998,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "William Oliver",
+    "starting_year": 1987,
+    "starting_team": "BAL",
+    "ending_year": 1998,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Leon Joseph",
+    "starting_year": 1986,
+    "starting_team": "SDN",
+    "ending_year": 1998,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Anthony Joseph",
+    "starting_year": 1994,
+    "starting_team": "SDN",
+    "ending_year": 1998,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Joseph Todd",
+    "starting_year": 1993,
+    "starting_team": "MON",
+    "ending_year": 1998,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Joseph Daniel",
+    "starting_year": 1998,
+    "starting_team": "FLO",
+    "ending_year": 1998,
+    "ending_team": "FLO"
+  },
+  {
+    "namegiven": "Gabriel",
+    "starting_year": 1998,
+    "starting_team": "FLO",
+    "ending_year": 1998,
+    "ending_team": "FLO"
+  },
+  {
+    "namegiven": "Peter Joseph",
+    "starting_year": 1986,
+    "starting_team": "TEX",
+    "ending_year": 1998,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Bart Steven",
+    "starting_year": 1998,
+    "starting_team": "KCA",
+    "ending_year": 1998,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Luis Antonio",
+    "starting_year": 1986,
+    "starting_team": "MON",
+    "ending_year": 1998,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Frank Greenfield",
+    "starting_year": 1998,
+    "starting_team": "LAN",
+    "ending_year": 1998,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Gregory Alfred",
+    "starting_year": 1998,
+    "starting_team": "MIL",
+    "ending_year": 1998,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Marc Alexander",
+    "starting_year": 1993,
+    "starting_team": "SEA",
+    "ending_year": 1998,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Travis Steven",
+    "starting_year": 1998,
+    "starting_team": "MIN",
+    "ending_year": 1998,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Robert Clifton",
+    "starting_year": 1998,
+    "starting_team": "MON",
+    "ending_year": 1998,
+    "ending_team": "MON"
+  },
+  {
+    "namegiven": "DaRond Tyrone",
+    "starting_year": 1998,
+    "starting_team": "MON",
+    "ending_year": 1998,
+    "ending_team": "MON"
+  },
+  {
+    "namegiven": "Shane Lee",
+    "starting_year": 1987,
+    "starting_team": "SDN",
+    "ending_year": 1998,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "David William",
+    "starting_year": 1993,
+    "starting_team": "NYN",
+    "ending_year": 1998,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Lucas Matthew",
+    "starting_year": 1996,
+    "starting_team": "PHI",
+    "ending_year": 1998,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Tyler Scott",
+    "starting_year": 1993,
+    "starting_team": "PHI",
+    "ending_year": 1998,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Sean Christopher",
+    "starting_year": 1998,
+    "starting_team": "PIT",
+    "ending_year": 1998,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Javier Antonio",
+    "starting_year": 1998,
+    "starting_team": "PIT",
+    "ending_year": 1998,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Kevin Michael",
+    "starting_year": 1997,
+    "starting_team": "PIT",
+    "ending_year": 1998,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Joseph Douglas",
+    "starting_year": 1989,
+    "starting_team": "DET",
+    "ending_year": 1998,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "David Allen",
+    "starting_year": 1998,
+    "starting_team": "SEA",
+    "ending_year": 1998,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Gregory O'Neil",
+    "starting_year": 1996,
+    "starting_team": "SEA",
+    "ending_year": 1998,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Thomas Alan",
+    "starting_year": 1987,
+    "starting_team": "SLN",
+    "ending_year": 1998,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Ramon Francisco",
+    "starting_year": 1997,
+    "starting_team": "CHN",
+    "ending_year": 1998,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Scott Alan",
+    "starting_year": 1986,
+    "starting_team": "CLE",
+    "ending_year": 1998,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Gregory James",
+    "starting_year": 1987,
+    "starting_team": "OAK",
+    "ending_year": 1998,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Matthew Clifford",
+    "starting_year": 1996,
+    "starting_team": "NYA",
+    "ending_year": 1999,
+    "ending_team": "ANA"
+  },
+  {
+    "namegiven": "Michael Peter",
+    "starting_year": 1997,
+    "starting_team": "ATL",
+    "ending_year": 1999,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Douglas Alan",
+    "starting_year": 1995,
+    "starting_team": "OAK",
+    "ending_year": 1999,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Willis Alexander",
+    "starting_year": 1998,
+    "starting_team": "BAL",
+    "ending_year": 1999,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Reginald Jirod",
+    "starting_year": 1991,
+    "starting_team": "CIN",
+    "ending_year": 1999,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Liubiemithz",
+    "starting_year": 1999,
+    "starting_team": "CHA",
+    "ending_year": 1999,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Jeffrey Michael",
+    "starting_year": 1987,
+    "starting_team": "ATL",
+    "ending_year": 1999,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Curtis LaMar",
+    "starting_year": 1995,
+    "starting_team": "BAL",
+    "ending_year": 1999,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Kurt Everett",
+    "starting_year": 1994,
+    "starting_team": "FLO",
+    "ending_year": 1999,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Scott Gerald",
+    "starting_year": 1993,
+    "starting_team": "SDN",
+    "ending_year": 1999,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "John Raymond",
+    "starting_year": 1994,
+    "starting_team": "HOU",
+    "ending_year": 1999,
+    "ending_team": "CIN"
+  },
+  {
+    "namegiven": "Paul Andre",
+    "starting_year": 1986,
+    "starting_team": "ATL",
+    "ending_year": 1999,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Jeffrey Finas",
+    "starting_year": 1995,
+    "starting_team": "NYN",
+    "ending_year": 1999,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Brian Christopher",
+    "starting_year": 1998,
+    "starting_team": "FLO",
+    "ending_year": 1999,
+    "ending_team": "FLO"
+  },
+  {
+    "namegiven": "Brian Christopher",
+    "starting_year": 1998,
+    "starting_team": "ATL",
+    "ending_year": 1999,
+    "ending_team": "FLO"
+  },
+  {
+    "namegiven": "Timothy James",
+    "starting_year": 1994,
+    "starting_team": "SDN",
+    "ending_year": 1999,
+    "ending_team": "FLO"
+  },
+  {
+    "namegiven": "Rafael Eduardo",
+    "starting_year": 1998,
+    "starting_team": "FLO",
+    "ending_year": 1999,
+    "ending_team": "FLO"
+  },
+  {
+    "namegiven": "Jed Ramon",
+    "starting_year": 1997,
+    "starting_team": "KCA",
+    "ending_year": 1999,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Jeffrey Wayne",
+    "starting_year": 1989,
+    "starting_team": "PIT",
+    "ending_year": 1999,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Scott Thomas",
+    "starting_year": 1990,
+    "starting_team": "MIN",
+    "ending_year": 1999,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Alvin",
+    "starting_year": 1996,
+    "starting_team": "HOU",
+    "ending_year": 1999,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "James Michael",
+    "starting_year": 1995,
+    "starting_team": "KCA",
+    "ending_year": 1999,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Derek Robert",
+    "starting_year": 1996,
+    "starting_team": "NYN",
+    "ending_year": 1999,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Jacob Donnell",
+    "starting_year": 1992,
+    "starting_team": "CIN",
+    "ending_year": 1999,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Robinson",
+    "starting_year": 1997,
+    "starting_team": "BOS",
+    "ending_year": 1999,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Melquiades",
+    "starting_year": 1990,
+    "starting_team": "MON",
+    "ending_year": 1999,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "James Anthony",
+    "starting_year": 1989,
+    "starting_team": "CAL",
+    "ending_year": 1999,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Robert E.",
+    "starting_year": 1998,
+    "starting_team": "MIL",
+    "ending_year": 1999,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Eric Vaughn",
+    "starting_year": 1986,
+    "starting_team": "OAK",
+    "ending_year": 1999,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Brent Robert",
+    "starting_year": 1993,
+    "starting_team": "OAK",
+    "ending_year": 1999,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Daniel Lee",
+    "starting_year": 1999,
+    "starting_team": "MIN",
+    "ending_year": 1999,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Shayne Anthony",
+    "starting_year": 1997,
+    "starting_team": "MON",
+    "ending_year": 1999,
+    "ending_team": "MON"
+  },
+  {
+    "namegiven": "James Darron",
+    "starting_year": 1999,
+    "starting_team": "MON",
+    "ending_year": 1999,
+    "ending_team": "MON"
+  },
+  {
+    "namegiven": "Daniel Donovan",
+    "starting_year": 1996,
+    "starting_team": "MIN",
+    "ending_year": 1999,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Jermaine LaMont",
+    "starting_year": 1996,
+    "starting_team": "PIT",
+    "ending_year": 1999,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Brian Wesley",
+    "starting_year": 1990,
+    "starting_team": "KCA",
+    "ending_year": 1999,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "William Robert",
+    "starting_year": 1993,
+    "starting_team": "KCA",
+    "ending_year": 1999,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Michael James",
+    "starting_year": 1995,
+    "starting_team": "PHI",
+    "ending_year": 1999,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Chad Wayne",
+    "starting_year": 1994,
+    "starting_team": "CLE",
+    "ending_year": 1999,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Kenneth Frederick",
+    "starting_year": 1992,
+    "starting_team": "BOS",
+    "ending_year": 1999,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Freddy Adrian",
+    "starting_year": 1995,
+    "starting_team": "PIT",
+    "ending_year": 1999,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Gregory Michael",
+    "starting_year": 1995,
+    "starting_team": "LAN",
+    "ending_year": 1999,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Dale Curtis",
+    "starting_year": 1986,
+    "starting_team": "ML4",
+    "ending_year": 1999,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "George Alberto",
+    "starting_year": 1996,
+    "starting_team": "CAL",
+    "ending_year": 1999,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Carlos Jesus",
+    "starting_year": 1990,
+    "starting_team": "PIT",
+    "ending_year": 1999,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Floyd Bluford",
+    "starting_year": 1992,
+    "starting_team": "HOU",
+    "ending_year": 1999,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Michael James",
+    "starting_year": 1996,
+    "starting_team": "SLN",
+    "ending_year": 1999,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "David Wayne",
+    "starting_year": 1991,
+    "starting_team": "KCA",
+    "ending_year": 1999,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Curtis Albert",
+    "starting_year": 1997,
+    "starting_team": "SLN",
+    "ending_year": 1999,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Anthony Scott",
+    "starting_year": 1997,
+    "starting_team": "FLO",
+    "ending_year": 1999,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Michael Howard",
+    "starting_year": 1990,
+    "starting_team": "HOU",
+    "ending_year": 1999,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Jacob Donnell",
+    "starting_year": 1992,
+    "starting_team": "CIN",
+    "ending_year": 1999,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Robert Frank John",
+    "starting_year": 1993,
+    "starting_team": "TOR",
+    "ending_year": 1999,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Eric David",
+    "starting_year": 1996,
+    "starting_team": "SLN",
+    "ending_year": 1999,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Jason Royce",
+    "starting_year": 1996,
+    "starting_team": "CAL",
+    "ending_year": 2000,
+    "ending_team": "ANA"
+  },
+  {
+    "namegiven": "Kevin Michael",
+    "starting_year": 1999,
+    "starting_team": "ATL",
+    "ending_year": 2000,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Gregory Winston",
+    "starting_year": 1993,
+    "starting_team": "ATL",
+    "ending_year": 2000,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Luis",
+    "starting_year": 2000,
+    "starting_team": "ATL",
+    "ending_year": 2000,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Albert Jojuan",
+    "starting_year": 1989,
+    "starting_team": "CLE",
+    "ending_year": 2000,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "William Nuschler",
+    "starting_year": 1986,
+    "starting_team": "SFN",
+    "ending_year": 2000,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "William Anthony",
+    "starting_year": 2000,
+    "starting_team": "BAL",
+    "ending_year": 2000,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "William Anthony",
+    "starting_year": 1995,
+    "starting_team": "CHA",
+    "ending_year": 2000,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Craig Franklin",
+    "starting_year": 1998,
+    "starting_team": "CHA",
+    "ending_year": 2000,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Tarrik Jumaan",
+    "starting_year": 2000,
+    "starting_team": "CHN",
+    "ending_year": 2000,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Daniel Bracy",
+    "starting_year": 2000,
+    "starting_team": "CHN",
+    "ending_year": 2000,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Gerard Peter",
+    "starting_year": 1993,
+    "starting_team": "CLE",
+    "ending_year": 2000,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Randall Scott",
+    "starting_year": 1995,
+    "starting_team": "ML4",
+    "ending_year": 2000,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Aaron David",
+    "starting_year": 1995,
+    "starting_team": "NYN",
+    "ending_year": 2000,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Jeffrey Paul",
+    "starting_year": 1990,
+    "starting_team": "CLE",
+    "ending_year": 2000,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Mark J.",
+    "starting_year": 2000,
+    "starting_team": "DET",
+    "ending_year": 2000,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Luis Andrew",
+    "starting_year": 1987,
+    "starting_team": "OAK",
+    "ending_year": 2000,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Sean David",
+    "starting_year": 1998,
+    "starting_team": "DET",
+    "ending_year": 2000,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Christopher Alan",
+    "starting_year": 1999,
+    "starting_team": "FLO",
+    "ending_year": 2000,
+    "ending_team": "FLO"
+  },
+  {
+    "namegiven": "Michael Ausley",
+    "starting_year": 1986,
+    "starting_team": "PHI",
+    "ending_year": 2000,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Matthew Todd",
+    "starting_year": 1993,
+    "starting_team": "ML4",
+    "ending_year": 2000,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Ray Arthur",
+    "starting_year": 1994,
+    "starting_team": "SDN",
+    "ending_year": 2000,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Scott Vernon",
+    "starting_year": 1993,
+    "starting_team": "FLO",
+    "ending_year": 2000,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Bradley Kenneth",
+    "starting_year": 1997,
+    "starting_team": "OAK",
+    "ending_year": 2000,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Jose Antonio",
+    "starting_year": 1996,
+    "starting_team": "KCA",
+    "ending_year": 2000,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Kevin Daniel",
+    "starting_year": 1986,
+    "starting_team": "NYN",
+    "ending_year": 2000,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Onan Kainoa Satoshi",
+    "starting_year": 1999,
+    "starting_team": "LAN",
+    "ending_year": 2000,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Carlos Gross",
+    "starting_year": 1995,
+    "starting_team": "MON",
+    "ending_year": 2000,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Jaime",
+    "starting_year": 1989,
+    "starting_team": "ML4",
+    "ending_year": 2000,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "John Michael",
+    "starting_year": 1998,
+    "starting_team": "CHA",
+    "ending_year": 2000,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Matt Taylor",
+    "starting_year": 2000,
+    "starting_team": "MIL",
+    "ending_year": 2000,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Sean Frederick",
+    "starting_year": 1993,
+    "starting_team": "DET",
+    "ending_year": 2000,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Robert Leon",
+    "starting_year": 1993,
+    "starting_team": "NYN",
+    "ending_year": 2000,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Kenneth Lance",
+    "starting_year": 1987,
+    "starting_team": "SLN",
+    "ending_year": 2000,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Allen Kenneth",
+    "starting_year": 1993,
+    "starting_team": "SLN",
+    "ending_year": 2000,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Jonathan Keith",
+    "starting_year": 1995,
+    "starting_team": "KCA",
+    "ending_year": 2000,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Richard Godhard",
+    "starting_year": 1993,
+    "starting_team": "MIN",
+    "ending_year": 2000,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Scott Phillip",
+    "starting_year": 1990,
+    "starting_team": "DET",
+    "ending_year": 2000,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Steven Wayne",
+    "starting_year": 1999,
+    "starting_team": "PHI",
+    "ending_year": 2000,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Francisco",
+    "starting_year": 1996,
+    "starting_team": "PIT",
+    "ending_year": 2000,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Steven Lewis",
+    "starting_year": 1996,
+    "starting_team": "OAK",
+    "ending_year": 2000,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Matthew Michael",
+    "starting_year": 1997,
+    "starting_team": "KCA",
+    "ending_year": 2000,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Matthew Michael",
+    "starting_year": 1997,
+    "starting_team": "FLO",
+    "ending_year": 2000,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "John William",
+    "starting_year": 1993,
+    "starting_team": "FLO",
+    "ending_year": 2000,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Thomas Sylvester",
+    "starting_year": 1990,
+    "starting_team": "SDN",
+    "ending_year": 2000,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Heath",
+    "starting_year": 1991,
+    "starting_team": "CHN",
+    "ending_year": 2000,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Mark Radford",
+    "starting_year": 1994,
+    "starting_team": "COL",
+    "ending_year": 2000,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Juan Andres",
+    "starting_year": 1991,
+    "starting_team": "TOR",
+    "ending_year": 2000,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Kevin Douglas",
+    "starting_year": 1993,
+    "starting_team": "PHI",
+    "ending_year": 2000,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Mark Willard",
+    "starting_year": 1991,
+    "starting_team": "SLN",
+    "ending_year": 2000,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "John Karl",
+    "starting_year": 1989,
+    "starting_team": "LAN",
+    "ending_year": 2000,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Kimera Anotchi",
+    "starting_year": 1996,
+    "starting_team": "DET",
+    "ending_year": 2001,
+    "ending_team": "ANA"
+  },
+  {
+    "namegiven": "Wallace Keith",
+    "starting_year": 1986,
+    "starting_team": "CAL",
+    "ending_year": 2001,
+    "ending_team": "ANA"
+  },
+  {
+    "namegiven": "Robert Andrew",
+    "starting_year": 1986,
+    "starting_team": "TEX",
+    "ending_year": 2001,
+    "ending_team": "ARI"
+  },
+  {
+    "namegiven": "Kurt Thomas",
+    "starting_year": 1993,
+    "starting_team": "OAK",
+    "ending_year": 2001,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Scott",
+    "starting_year": 2001,
+    "starting_team": "ATL",
+    "ending_year": 2001,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Marc Christopher",
+    "starting_year": 1995,
+    "starting_team": "FLO",
+    "ending_year": 2001,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Quilvio Alberto",
+    "starting_year": 1995,
+    "starting_team": "FLO",
+    "ending_year": 2001,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Alan Bernard",
+    "starting_year": 1990,
+    "starting_team": "NYA",
+    "ending_year": 2001,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Bryce Bettencourt",
+    "starting_year": 1994,
+    "starting_team": "SDN",
+    "ending_year": 2001,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Craig Allen",
+    "starting_year": 1990,
+    "starting_team": "CHA",
+    "ending_year": 2001,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Michael Thomas",
+    "starting_year": 1993,
+    "starting_team": "MON",
+    "ending_year": 2001,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Peter Alan",
+    "starting_year": 1991,
+    "starting_team": "NYN",
+    "ending_year": 2001,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Damon Jackson",
+    "starting_year": 1993,
+    "starting_team": "BAL",
+    "ending_year": 2001,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Osvaldo",
+    "starting_year": 1996,
+    "starting_team": "SFN",
+    "ending_year": 2001,
+    "ending_team": "CIN"
+  },
+  {
+    "namegiven": "Edward Kenneth",
+    "starting_year": 1991,
+    "starting_team": "CLE",
+    "ending_year": 2001,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Brian Edward",
+    "starting_year": 1990,
+    "starting_team": "TEX",
+    "ending_year": 2001,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Lyle Joseph",
+    "starting_year": 1995,
+    "starting_team": "CHA",
+    "ending_year": 2001,
+    "ending_team": "FLO"
+  },
+  {
+    "namegiven": "Glen F.",
+    "starting_year": 1999,
+    "starting_team": "HOU",
+    "ending_year": 2001,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "William James",
+    "starting_year": 1989,
+    "starting_team": "ML4",
+    "ending_year": 2001,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Anthony Michael",
+    "starting_year": 2001,
+    "starting_team": "KCA",
+    "ending_year": 2001,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Timothy Paul",
+    "starting_year": 1993,
+    "starting_team": "NYN",
+    "ending_year": 2001,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Jeffrey Lee",
+    "starting_year": 1990,
+    "starting_team": "CLE",
+    "ending_year": 2001,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "James Raleigh",
+    "starting_year": 1994,
+    "starting_team": "HOU",
+    "ending_year": 2001,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Michael Keith",
+    "starting_year": 1997,
+    "starting_team": "BAL",
+    "ending_year": 2001,
+    "ending_team": "MON"
+  },
+  {
+    "namegiven": "Randy Duane",
+    "starting_year": 1991,
+    "starting_team": "TOR",
+    "ending_year": 2001,
+    "ending_team": "MON"
+  },
+  {
+    "namegiven": "Christopher Michael",
+    "starting_year": 1996,
+    "starting_team": "PIT",
+    "ending_year": 2001,
+    "ending_team": "MON"
+  },
+  {
+    "namegiven": "Joseph Melton",
+    "starting_year": 1989,
+    "starting_team": "CIN",
+    "ending_year": 2001,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Christian Michael",
+    "starting_year": 2001,
+    "starting_team": "NYA",
+    "ending_year": 2001,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Mario A.",
+    "starting_year": 1997,
+    "starting_team": "CHA",
+    "ending_year": 2001,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Kevin Wayne",
+    "starting_year": 1995,
+    "starting_team": "PHI",
+    "ending_year": 2001,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Patrick James",
+    "starting_year": 1993,
+    "starting_team": "MIN",
+    "ending_year": 2001,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Omar",
+    "starting_year": 1990,
+    "starting_team": "SDN",
+    "ending_year": 2001,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Marc Allen",
+    "starting_year": 1996,
+    "starting_team": "PIT",
+    "ending_year": 2001,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Felipe Javier",
+    "starting_year": 1996,
+    "starting_team": "TOR",
+    "ending_year": 2001,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Russell Stuart",
+    "starting_year": 1994,
+    "starting_team": "NYA",
+    "ending_year": 2001,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Roberto Martin Antonio",
+    "starting_year": 1986,
+    "starting_team": "CHA",
+    "ending_year": 2001,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Chad Martin",
+    "starting_year": 2001,
+    "starting_team": "SLN",
+    "ending_year": 2001,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Mark David",
+    "starting_year": 1986,
+    "starting_team": "OAK",
+    "ending_year": 2001,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Jeffrey Jon",
+    "starting_year": 1994,
+    "starting_team": "PIT",
+    "ending_year": 2001,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Kenneth Wade",
+    "starting_year": 1988,
+    "starting_team": "SLN",
+    "ending_year": 2001,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Ariel",
+    "starting_year": 1995,
+    "starting_team": "OAK",
+    "ending_year": 2001,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Kenneth Gene",
+    "starting_year": 1987,
+    "starting_team": "HOU",
+    "ending_year": 2001,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Timothy Lyle",
+    "starting_year": 1995,
+    "starting_team": "TOR",
+    "ending_year": 2001,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Chad David",
+    "starting_year": 1992,
+    "starting_team": "CAL",
+    "ending_year": 2001,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Jeffrey Ross",
+    "starting_year": 1999,
+    "starting_team": "TEX",
+    "ending_year": 2001,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Jeffrey Dustin",
+    "starting_year": 1992,
+    "starting_team": "TEX",
+    "ending_year": 2001,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Jorge",
+    "starting_year": 1994,
+    "starting_team": "CAL",
+    "ending_year": 2002,
+    "ending_team": "ANA"
+  },
+  {
+    "namegiven": "Donnell Lee",
+    "starting_year": 1995,
+    "starting_team": "HOU",
+    "ending_year": 2002,
+    "ending_team": "ANA"
+  },
+  {
+    "namegiven": "Forest Gregory",
+    "starting_year": 1986,
+    "starting_team": "CLE",
+    "ending_year": 2002,
+    "ending_team": "ARI"
+  },
+  {
+    "namegiven": "Luis Carlos",
+    "starting_year": 2002,
+    "starting_team": "BAL",
+    "ending_year": 2002,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Michael Thomas",
+    "starting_year": 2002,
+    "starting_team": "BAL",
+    "ending_year": 2002,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Luis Rolando",
+    "starting_year": 1998,
+    "starting_team": "TBA",
+    "ending_year": 2002,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Delino Lamont",
+    "starting_year": 1990,
+    "starting_team": "MON",
+    "ending_year": 2002,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Brady Kevin",
+    "starting_year": 1988,
+    "starting_team": "BOS",
+    "ending_year": 2002,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Charles Edward",
+    "starting_year": 1986,
+    "starting_team": "CAL",
+    "ending_year": 2002,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "David Travis",
+    "starting_year": 1990,
+    "starting_team": "DET",
+    "ending_year": 2002,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Michael Elmo",
+    "starting_year": 1995,
+    "starting_team": "CAL",
+    "ending_year": 2002,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Jeffrey Ellis",
+    "starting_year": 2002,
+    "starting_team": "DET",
+    "ending_year": 2002,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Wendell Errol",
+    "starting_year": 1996,
+    "starting_team": "PHI",
+    "ending_year": 2002,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Terry Bobby Gene",
+    "starting_year": 2002,
+    "starting_team": "DET",
+    "ending_year": 2002,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Timothy Jay",
+    "starting_year": 1995,
+    "starting_team": "SLN",
+    "ending_year": 2002,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "William Blake",
+    "starting_year": 1998,
+    "starting_team": "OAK",
+    "ending_year": 2002,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "McKay Andrew",
+    "starting_year": 1999,
+    "starting_team": "CHA",
+    "ending_year": 2002,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Takahito",
+    "starting_year": 2002,
+    "starting_team": "MIL",
+    "ending_year": 2002,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Alex",
+    "starting_year": 1995,
+    "starting_team": "NYN",
+    "ending_year": 2002,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Jason Kyle",
+    "starting_year": 1996,
+    "starting_team": "SFN",
+    "ending_year": 2002,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Robert Lee",
+    "starting_year": 1994,
+    "starting_team": "PHI",
+    "ending_year": 2002,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "DeWain Lee",
+    "starting_year": 1990,
+    "starting_team": "CAL",
+    "ending_year": 2002,
+    "ending_team": "MON"
+  },
+  {
+    "namegiven": "Masato",
+    "starting_year": 1998,
+    "starting_team": "NYN",
+    "ending_year": 2002,
+    "ending_team": "MON"
+  },
+  {
+    "namegiven": "Jay Weldon",
+    "starting_year": 1998,
+    "starting_team": "NYA",
+    "ending_year": 2002,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Mark Patrick",
+    "starting_year": 1995,
+    "starting_team": "PIT",
+    "ending_year": 2002,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Satoru",
+    "starting_year": 2002,
+    "starting_team": "NYN",
+    "ending_year": 2002,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "John William",
+    "starting_year": 1992,
+    "starting_team": "BOS",
+    "ending_year": 2002,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Michael Gus",
+    "starting_year": 1999,
+    "starting_team": "ANA",
+    "ending_year": 2002,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Randy Lee",
+    "starting_year": 1987,
+    "starting_team": "NYA",
+    "ending_year": 2002,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "David Michael",
+    "starting_year": 1990,
+    "starting_team": "PHI",
+    "ending_year": 2002,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Thomas Joseph",
+    "starting_year": 1999,
+    "starting_team": "SEA",
+    "ending_year": 2002,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Robert Joseph",
+    "starting_year": 1993,
+    "starting_team": "NYN",
+    "ending_year": 2002,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Jose Antonio",
+    "starting_year": 2001,
+    "starting_team": "LAN",
+    "ending_year": 2002,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Robert Allen",
+    "starting_year": 1993,
+    "starting_team": "TEX",
+    "ending_year": 2002,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Andrew Charles",
+    "starting_year": 1989,
+    "starting_team": "SDN",
+    "ending_year": 2002,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Darryl Andrew",
+    "starting_year": 1991,
+    "starting_team": "HOU",
+    "ending_year": 2002,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Steven Patrick",
+    "starting_year": 2002,
+    "starting_team": "TBA",
+    "ending_year": 2002,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Robert Eugene",
+    "starting_year": 1998,
+    "starting_team": "TBA",
+    "ending_year": 2002,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Thurman Clyde",
+    "starting_year": 1994,
+    "starting_team": "TEX",
+    "ending_year": 2002,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Hideki",
+    "starting_year": 1997,
+    "starting_team": "NYA",
+    "ending_year": 2002,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Joseph Dudley",
+    "starting_year": 2002,
+    "starting_team": "TOR",
+    "ending_year": 2002,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Brian Herbert",
+    "starting_year": 1996,
+    "starting_team": "OAK",
+    "ending_year": 2002,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Romar Benjamin",
+    "starting_year": 1993,
+    "starting_team": "TEX",
+    "ending_year": 2003,
+    "ending_team": "ANA"
+  },
+  {
+    "namegiven": "Eric Blake",
+    "starting_year": 1995,
+    "starting_team": "CIN",
+    "ending_year": 2003,
+    "ending_team": "ANA"
+  },
+  {
+    "namegiven": "Matthew Neil",
+    "starting_year": 1995,
+    "starting_team": "CHN",
+    "ending_year": 2003,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Martin Kevin",
+    "starting_year": 1995,
+    "starting_team": "MIN",
+    "ending_year": 2003,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Jose",
+    "starting_year": 2003,
+    "starting_team": "BAL",
+    "ending_year": 2003,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Robert Alan",
+    "starting_year": 1995,
+    "starting_team": "NYN",
+    "ending_year": 2003,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Mark Andrew",
+    "starting_year": 1989,
+    "starting_team": "MIN",
+    "ending_year": 2003,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "David Scott",
+    "starting_year": 1994,
+    "starting_team": "HOU",
+    "ending_year": 2003,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Jason Phillip",
+    "starting_year": 1993,
+    "starting_team": "CHA",
+    "ending_year": 2003,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Craig Harold",
+    "starting_year": 1993,
+    "starting_team": "OAK",
+    "ending_year": 2003,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Matthew Lovick",
+    "starting_year": 1993,
+    "starting_team": "CHN",
+    "ending_year": 2003,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Brian Lee",
+    "starting_year": 1994,
+    "starting_team": "HOU",
+    "ending_year": 2003,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Orlando Luis",
+    "starting_year": 1990,
+    "starting_team": "PIT",
+    "ending_year": 2003,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Rontrez DeMon",
+    "starting_year": 2003,
+    "starting_team": "KCA",
+    "ending_year": 2003,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Todd Randolph",
+    "starting_year": 1990,
+    "starting_team": "NYN",
+    "ending_year": 2003,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Matthew Lee",
+    "starting_year": 2003,
+    "starting_team": "MIL",
+    "ending_year": 2003,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Daniel Charles",
+    "starting_year": 1999,
+    "starting_team": "MON",
+    "ending_year": 2003,
+    "ending_team": "MON"
+  },
+  {
+    "namegiven": "Juan Carlos",
+    "starting_year": 1995,
+    "starting_team": "COL",
+    "ending_year": 2003,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Thomas Bubba",
+    "starting_year": 1997,
+    "starting_team": "DET",
+    "ending_year": 2003,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Graeme John",
+    "starting_year": 1993,
+    "starting_team": "ML4",
+    "ending_year": 2003,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Tsuyoshi",
+    "starting_year": 2001,
+    "starting_team": "NYN",
+    "ending_year": 2003,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Maurice Samuel",
+    "starting_year": 1991,
+    "starting_team": "BOS",
+    "ending_year": 2003,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Tyler Sam",
+    "starting_year": 1996,
+    "starting_team": "ATL",
+    "ending_year": 2003,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Hector Luis",
+    "starting_year": 2000,
+    "starting_team": "CIN",
+    "ending_year": 2003,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Daniel Thomas",
+    "starting_year": 1986,
+    "starting_team": "ML4",
+    "ending_year": 2003,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Keith Virgil",
+    "starting_year": 1994,
+    "starting_team": "SDN",
+    "ending_year": 2003,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Kazuhiro",
+    "starting_year": 2000,
+    "starting_team": "SEA",
+    "ending_year": 2003,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Marvin Larry",
+    "starting_year": 1995,
+    "starting_team": "SFN",
+    "ending_year": 2003,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Joseph Elliott",
+    "starting_year": 1989,
+    "starting_team": "CHN",
+    "ending_year": 2003,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Lance Telford",
+    "starting_year": 1993,
+    "starting_team": "COL",
+    "ending_year": 2003,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "James Vo",
+    "starting_year": 1998,
+    "starting_team": "CHA",
+    "ending_year": 2003,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Steven Michael",
+    "starting_year": 1995,
+    "starting_team": "PIT",
+    "ending_year": 2003,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Terrance Darnell",
+    "starting_year": 1990,
+    "starting_team": "KCA",
+    "ending_year": 2003,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Shane David",
+    "starting_year": 1997,
+    "starting_team": "KCA",
+    "ending_year": 2004,
+    "ending_team": "ANA"
+  },
+  {
+    "namegiven": "Steven William",
+    "starting_year": 1995,
+    "starting_team": "ML4",
+    "ending_year": 2004,
+    "ending_team": "ARI"
+  },
+  {
+    "namegiven": "William Joseph",
+    "starting_year": 1997,
+    "starting_team": "SDN",
+    "ending_year": 2004,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Ellis Rena",
+    "starting_year": 1987,
+    "starting_team": "BOS",
+    "ending_year": 2004,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Calvin",
+    "starting_year": 1997,
+    "starting_team": "CIN",
+    "ending_year": 2004,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Michael Ray",
+    "starting_year": 1986,
+    "starting_team": "PHI",
+    "ending_year": 2004,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "William Christopher",
+    "starting_year": 1999,
+    "starting_team": "TOR",
+    "ending_year": 2004,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Barry Louis",
+    "starting_year": 1986,
+    "starting_team": "CIN",
+    "ending_year": 2004,
+    "ending_team": "CIN"
+  },
+  {
+    "namegiven": "Jeffrey Charles",
+    "starting_year": 1996,
+    "starting_team": "ML4",
+    "ending_year": 2004,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Scott Edward",
+    "starting_year": 2001,
+    "starting_team": "MON",
+    "ending_year": 2004,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Fernando",
+    "starting_year": 1993,
+    "starting_team": "SEA",
+    "ending_year": 2004,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Curtis John",
+    "starting_year": 1993,
+    "starting_team": "COL",
+    "ending_year": 2004,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Mendy",
+    "starting_year": 1998,
+    "starting_team": "KCA",
+    "ending_year": 2004,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Darren James",
+    "starting_year": 1994,
+    "starting_team": "LAN",
+    "ending_year": 2004,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "David Allen",
+    "starting_year": 1990,
+    "starting_team": "SEA",
+    "ending_year": 2004,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Benjamin Cooper",
+    "starting_year": 1998,
+    "starting_team": "ARI",
+    "ending_year": 2004,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Michael Brooks",
+    "starting_year": 1996,
+    "starting_team": "CHN",
+    "ending_year": 2004,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Juan Carlos",
+    "starting_year": 1994,
+    "starting_team": "MIN",
+    "ending_year": 2004,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Ronald Isiah",
+    "starting_year": 2003,
+    "starting_team": "MON",
+    "ending_year": 2004,
+    "ending_team": "MON"
+  },
+  {
+    "namegiven": "Andrew Junipero",
+    "starting_year": 1996,
+    "starting_team": "NYA",
+    "ending_year": 2004,
+    "ending_team": "MON"
+  },
+  {
+    "namegiven": "Gustavo Karim",
+    "starting_year": 1995,
+    "starting_team": "LAN",
+    "ending_year": 2004,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Ricardo",
+    "starting_year": 1993,
+    "starting_team": "SDN",
+    "ending_year": 2004,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Orber",
+    "starting_year": 1999,
+    "starting_team": "KCA",
+    "ending_year": 2004,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Michael Shane",
+    "starting_year": 1998,
+    "starting_team": "NYA",
+    "ending_year": 2004,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Todd Edward",
+    "starting_year": 1989,
+    "starting_team": "SLN",
+    "ending_year": 2004,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "William Edward",
+    "starting_year": 1996,
+    "starting_team": "FLO",
+    "ending_year": 2004,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Brian Edward",
+    "starting_year": 1995,
+    "starting_team": "NYA",
+    "ending_year": 2004,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Christopher Desmond",
+    "starting_year": 1995,
+    "starting_team": "KCA",
+    "ending_year": 2004,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Edilberto",
+    "starting_year": 2001,
+    "starting_team": "PHI",
+    "ending_year": 2004,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Jason Ernest",
+    "starting_year": 2004,
+    "starting_team": "SDN",
+    "ending_year": 2004,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Raymond Lewis",
+    "starting_year": 1990,
+    "starting_team": "SLN",
+    "ending_year": 2004,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Paul David",
+    "starting_year": 1990,
+    "starting_team": "MIN",
+    "ending_year": 2004,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Damian Michael",
+    "starting_year": 2000,
+    "starting_team": "TBA",
+    "ending_year": 2004,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Herbert Edward",
+    "starting_year": 1994,
+    "starting_team": "CLE",
+    "ending_year": 2004,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "David Scott",
+    "starting_year": 1998,
+    "starting_team": "FLO",
+    "ending_year": 2004,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Patrick George",
+    "starting_year": 1991,
+    "starting_team": "TOR",
+    "ending_year": 2004,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Simon Emilio",
+    "starting_year": 2004,
+    "starting_team": "TOR",
+    "ending_year": 2004,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Raul Ramon",
+    "starting_year": 1993,
+    "starting_team": "LAN",
+    "ending_year": 2005,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Eduardo Rafael",
+    "starting_year": 1995,
+    "starting_team": "ATL",
+    "ending_year": 2005,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "William James",
+    "starting_year": 1987,
+    "starting_team": "ML4",
+    "ending_year": 2005,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Matthew Bruce",
+    "starting_year": 1995,
+    "starting_team": "FLO",
+    "ending_year": 2005,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Shingo",
+    "starting_year": 2004,
+    "starting_team": "CHA",
+    "ending_year": 2005,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Benjamin Edward",
+    "starting_year": 2000,
+    "starting_team": "SFN",
+    "ending_year": 2005,
+    "ending_team": "CIN"
+  },
+  {
+    "namegiven": "Paul Anthony",
+    "starting_year": 1996,
+    "starting_team": "NYN",
+    "ending_year": 2005,
+    "ending_team": "CIN"
+  },
+  {
+    "namegiven": "Robert Leigh",
+    "starting_year": 1995,
+    "starting_team": "DET",
+    "ending_year": 2005,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Ugueth Urtain",
+    "starting_year": 1995,
+    "starting_team": "MON",
+    "ending_year": 2005,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Ismael",
+    "starting_year": 1994,
+    "starting_team": "LAN",
+    "ending_year": 2005,
+    "ending_team": "FLO"
+  },
+  {
+    "namegiven": "Brian James",
+    "starting_year": 1993,
+    "starting_team": "CAL",
+    "ending_year": 2005,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Stephen John",
+    "starting_year": 2005,
+    "starting_team": "LAN",
+    "ending_year": 2005,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Kelly Douglas",
+    "starting_year": 2000,
+    "starting_team": "CHA",
+    "ending_year": 2005,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Thomas Allen",
+    "starting_year": 2003,
+    "starting_team": "FLO",
+    "ending_year": 2005,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Paul John",
+    "starting_year": 1992,
+    "starting_team": "BOS",
+    "ending_year": 2005,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Felix",
+    "starting_year": 1996,
+    "starting_team": "FLO",
+    "ending_year": 2005,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Kazuhisa",
+    "starting_year": 2002,
+    "starting_team": "LAN",
+    "ending_year": 2005,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Dae-Sung",
+    "starting_year": 2005,
+    "starting_team": "NYN",
+    "ending_year": 2005,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Erubiel",
+    "starting_year": 1999,
+    "starting_team": "ARI",
+    "ending_year": 2005,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Terry Wayne",
+    "starting_year": 1995,
+    "starting_team": "CHN",
+    "ending_year": 2005,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Jose Antonio",
+    "starting_year": 1990,
+    "starting_team": "LAN",
+    "ending_year": 2005,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Shigetoshi",
+    "starting_year": 1997,
+    "starting_team": "ANA",
+    "ending_year": 2005,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Jason Samuel",
+    "starting_year": 1995,
+    "starting_team": "PIT",
+    "ending_year": 2005,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Deivi",
+    "starting_year": 1997,
+    "starting_team": "DET",
+    "ending_year": 2005,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Marquis Deon",
+    "starting_year": 1989,
+    "starting_team": "MON",
+    "ending_year": 2005,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Kirk Wesley",
+    "starting_year": 1993,
+    "starting_team": "MON",
+    "ending_year": 2005,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Roger Leandro",
+    "starting_year": 1995,
+    "starting_team": "LAN",
+    "ending_year": 2005,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Christopher Verdell",
+    "starting_year": 1999,
+    "starting_team": "CHA",
+    "ending_year": 2005,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "John Chad",
+    "starting_year": 1999,
+    "starting_team": "MIN",
+    "ending_year": 2005,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Richard Jose",
+    "starting_year": 1997,
+    "starting_team": "HOU",
+    "ending_year": 2005,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Tony Hemiphere",
+    "starting_year": 2005,
+    "starting_team": "WAS",
+    "ending_year": 2005,
+    "ending_team": "WAS"
+  },
+  {
+    "namegiven": "Antonio Pedro",
+    "starting_year": 1995,
+    "starting_team": "LAN",
+    "ending_year": 2005,
+    "ending_team": "WAS"
+  },
+  {
+    "namegiven": "Brian O'Neal",
+    "starting_year": 1992,
+    "starting_team": "SLN",
+    "ending_year": 2006,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Sendy",
+    "starting_year": 2006,
+    "starting_team": "BAL",
+    "ending_year": 2006,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Clifford Anthony",
+    "starting_year": 1998,
+    "starting_team": "SLN",
+    "ending_year": 2006,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Christopher Jon",
+    "starting_year": 1995,
+    "starting_team": "SEA",
+    "ending_year": 2006,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Todd Mathew",
+    "starting_year": 1995,
+    "starting_team": "LAN",
+    "ending_year": 2006,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Scott William",
+    "starting_year": 1999,
+    "starting_team": "PIT",
+    "ending_year": 2006,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Michel Dwain",
+    "starting_year": 1997,
+    "starting_team": "COL",
+    "ending_year": 2006,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Luis Alberto",
+    "starting_year": 2004,
+    "starting_team": "COL",
+    "ending_year": 2006,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Vance Allen",
+    "starting_year": 1999,
+    "starting_team": "NYN",
+    "ending_year": 2006,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Joseph Emerson",
+    "starting_year": 1999,
+    "starting_team": "MIN",
+    "ending_year": 2006,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Edgardo Antonio",
+    "starting_year": 1995,
+    "starting_team": "NYN",
+    "ending_year": 2006,
+    "ending_team": "LAA"
+  },
+  {
+    "namegiven": "Brad William",
+    "starting_year": 1995,
+    "starting_team": "MIN",
+    "ending_year": 2006,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Bernabe",
+    "starting_year": 1991,
+    "starting_team": "NYA",
+    "ending_year": 2006,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "David Michael",
+    "starting_year": 1995,
+    "starting_team": "SLN",
+    "ending_year": 2006,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Alexander Scott",
+    "starting_year": 1994,
+    "starting_team": "TOR",
+    "ending_year": 2006,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Cory Fulton",
+    "starting_year": 1997,
+    "starting_team": "NYN",
+    "ending_year": 2006,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Julio Franklin",
+    "starting_year": 1997,
+    "starting_team": "TEX",
+    "ending_year": 2006,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Joseph Gregory",
+    "starting_year": 1995,
+    "starting_team": "KCA",
+    "ending_year": 2006,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Scott Robert",
+    "starting_year": 2002,
+    "starting_team": "TOR",
+    "ending_year": 2006,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Carl Edward",
+    "starting_year": 1993,
+    "starting_team": "FLO",
+    "ending_year": 2006,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Matthew",
+    "starting_year": 1995,
+    "starting_team": "MIN",
+    "ending_year": 2006,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Roberto Antonio",
+    "starting_year": 1994,
+    "starting_team": "HOU",
+    "ending_year": 2006,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Todd Anthony",
+    "starting_year": 1996,
+    "starting_team": "CAL",
+    "ending_year": 2006,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Michael Scott",
+    "starting_year": 1994,
+    "starting_team": "ML4",
+    "ending_year": 2006,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Timothy Howard",
+    "starting_year": 1993,
+    "starting_team": "SDN",
+    "ending_year": 2006,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Jason Lee",
+    "starting_year": 2006,
+    "starting_team": "TBA",
+    "ending_year": 2006,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Travis Reynolds",
+    "starting_year": 1998,
+    "starting_team": "ARI",
+    "ending_year": 2006,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Matthew Brian",
+    "starting_year": 1998,
+    "starting_team": "FLO",
+    "ending_year": 2006,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Daniel",
+    "starting_year": 1993,
+    "starting_team": "PIT",
+    "ending_year": 2006,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Phillip Joseph",
+    "starting_year": 1995,
+    "starting_team": "HOU",
+    "ending_year": 2006,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Peter Brian",
+    "starting_year": 1995,
+    "starting_team": "NYN",
+    "ending_year": 2006,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Joseph Raymond",
+    "starting_year": 1994,
+    "starting_team": "MON",
+    "ending_year": 2006,
+    "ending_team": "WAS"
+  },
+  {
+    "namegiven": "Wiklenman Vicente",
+    "starting_year": 1999,
+    "starting_team": "SDN",
+    "ending_year": 2006,
+    "ending_team": "WAS"
+  },
+  {
+    "namegiven": "Robert Joe",
+    "starting_year": 1992,
+    "starting_team": "NYA",
+    "ending_year": 2007,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Scott Ryan",
+    "starting_year": 1999,
+    "starting_team": "CIN",
+    "ending_year": 2007,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Jaret Samuel",
+    "starting_year": 1997,
+    "starting_team": "CLE",
+    "ending_year": 2007,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Douglas Anthony",
+    "starting_year": 1996,
+    "starting_team": "SFN",
+    "ending_year": 2007,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Andrew Frank",
+    "starting_year": 2005,
+    "starting_team": "KCA",
+    "ending_year": 2007,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Jonathan Thomas",
+    "starting_year": 2007,
+    "starting_team": "CIN",
+    "ending_year": 2007,
+    "ending_team": "CIN"
+  },
+  {
+    "namegiven": "Richard Aaron",
+    "starting_year": 2000,
+    "starting_team": "SFN",
+    "ending_year": 2007,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Roberto Manuel",
+    "starting_year": 1991,
+    "starting_team": "CHA",
+    "ending_year": 2007,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Steven Allen",
+    "starting_year": 1989,
+    "starting_team": "BAL",
+    "ending_year": 2007,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Byung-Hyun",
+    "starting_year": 1999,
+    "starting_team": "ARI",
+    "ending_year": 2007,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "John Steven",
+    "starting_year": 1994,
+    "starting_team": "SLN",
+    "ending_year": 2007,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Thomas Edgar",
+    "starting_year": 1997,
+    "starting_team": "HOU",
+    "ending_year": 2007,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Neifi Neftali",
+    "starting_year": 1996,
+    "starting_team": "COL",
+    "ending_year": 2007,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Orlando",
+    "starting_year": 1995,
+    "starting_team": "CAL",
+    "ending_year": 2007,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Richard Allen",
+    "starting_year": 1994,
+    "starting_team": "PIT",
+    "ending_year": 2007,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Gregory Scott",
+    "starting_year": 1993,
+    "starting_team": "TOR",
+    "ending_year": 2007,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Hector",
+    "starting_year": 1994,
+    "starting_team": "CIN",
+    "ending_year": 2007,
+    "ending_team": "LAA"
+  },
+  {
+    "namegiven": "Shea Matthew",
+    "starting_year": 2001,
+    "starting_team": "BOS",
+    "ending_year": 2007,
+    "ending_team": "LAA"
+  },
+  {
+    "namegiven": "Michael Scott",
+    "starting_year": 1994,
+    "starting_team": "PHI",
+    "ending_year": 2007,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Damian Donald",
+    "starting_year": 1997,
+    "starting_team": "MIN",
+    "ending_year": 2007,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Jeffrey Howard",
+    "starting_year": 1994,
+    "starting_team": "ML4",
+    "ending_year": 2007,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Rondell Bernard",
+    "starting_year": 1993,
+    "starting_team": "MON",
+    "ending_year": 2007,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Michael Stanley",
+    "starting_year": 1995,
+    "starting_team": "FLO",
+    "ending_year": 2007,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Shawn David",
+    "starting_year": 1993,
+    "starting_team": "TOR",
+    "ending_year": 2007,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Orlando P.",
+    "starting_year": 1998,
+    "starting_team": "NYA",
+    "ending_year": 2007,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Aaron Helmer",
+    "starting_year": 1993,
+    "starting_team": "BOS",
+    "ending_year": 2007,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Todd Arthur",
+    "starting_year": 1996,
+    "starting_team": "MIN",
+    "ending_year": 2007,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Antonio",
+    "starting_year": 1997,
+    "starting_team": "FLO",
+    "ending_year": 2007,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "John Truman",
+    "starting_year": 1995,
+    "starting_team": "OAK",
+    "ending_year": 2007,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Terrmel",
+    "starting_year": 2004,
+    "starting_team": "MON",
+    "ending_year": 2007,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Christopher Michael",
+    "starting_year": 2001,
+    "starting_team": "CIN",
+    "ending_year": 2007,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Barry Lamar",
+    "starting_year": 1986,
+    "starting_team": "PIT",
+    "ending_year": 2007,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Steven James",
+    "starting_year": 1997,
+    "starting_team": "CLE",
+    "ending_year": 2007,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Ruddy Joraider",
+    "starting_year": 2006,
+    "starting_team": "TBA",
+    "ending_year": 2007,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Kenneth",
+    "starting_year": 1991,
+    "starting_team": "HOU",
+    "ending_year": 2007,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Akinori",
+    "starting_year": 2004,
+    "starting_team": "SDN",
+    "ending_year": 2007,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Samuel Peralta",
+    "starting_year": 1989,
+    "starting_team": "TEX",
+    "ending_year": 2007,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "John Carl",
+    "starting_year": 1997,
+    "starting_team": "COL",
+    "ending_year": 2007,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Thomas Michael",
+    "starting_year": 1987,
+    "starting_team": "ATL",
+    "ending_year": 2008,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Randor",
+    "starting_year": 2008,
+    "starting_team": "BAL",
+    "ending_year": 2008,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Stephen Christopher",
+    "starting_year": 1993,
+    "starting_team": "CHN",
+    "ending_year": 2008,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Michael August",
+    "starting_year": 1991,
+    "starting_team": "TOR",
+    "ending_year": 2008,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Jonathan Ray",
+    "starting_year": 1994,
+    "starting_team": "PIT",
+    "ending_year": 2008,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Joseph Thomas",
+    "starting_year": 1995,
+    "starting_team": "BAL",
+    "ending_year": 2008,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Micah Andrew",
+    "starting_year": 1999,
+    "starting_team": "CHN",
+    "ending_year": 2008,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Jacque Dewayne",
+    "starting_year": 1999,
+    "starting_team": "MIN",
+    "ending_year": 2008,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Todd Barton Givin",
+    "starting_year": 1993,
+    "starting_team": "HOU",
+    "ending_year": 2008,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Aquilino",
+    "starting_year": 2003,
+    "starting_team": "TOR",
+    "ending_year": 2008,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Kenneth Scott",
+    "starting_year": 1989,
+    "starting_team": "TEX",
+    "ending_year": 2008,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Jason William",
+    "starting_year": 1998,
+    "starting_team": "OAK",
+    "ending_year": 2008,
+    "ending_team": "FLO"
+  },
+  {
+    "namegiven": "David Richard",
+    "starting_year": 1999,
+    "starting_team": "DET",
+    "ending_year": 2008,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Jose Luis",
+    "starting_year": 1997,
+    "starting_team": "TOR",
+    "ending_year": 2008,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Oscar Eduardo",
+    "starting_year": 2003,
+    "starting_team": "ARI",
+    "ending_year": 2008,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Matthew David",
+    "starting_year": 2008,
+    "starting_team": "KCA",
+    "ending_year": 2008,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Gary David",
+    "starting_year": 1995,
+    "starting_team": "PHI",
+    "ending_year": 2008,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Jeffrey Franklin",
+    "starting_year": 1992,
+    "starting_team": "TOR",
+    "ending_year": 2008,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Esteban Antonio",
+    "starting_year": 1995,
+    "starting_team": "PIT",
+    "ending_year": 2008,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Mark Patrick",
+    "starting_year": 1995,
+    "starting_team": "SLN",
+    "ending_year": 2008,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Thomas Derrick",
+    "starting_year": 2000,
+    "starting_team": "ANA",
+    "ending_year": 2008,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Michael Cole",
+    "starting_year": 1991,
+    "starting_team": "BAL",
+    "ending_year": 2008,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Humberto A.",
+    "starting_year": 2008,
+    "starting_team": "NYA",
+    "ending_year": 2008,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Moises Rojas",
+    "starting_year": 1990,
+    "starting_team": "PIT",
+    "ending_year": 2008,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Keith Charles",
+    "starting_year": 1997,
+    "starting_team": "CHA",
+    "ending_year": 2008,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Fernando",
+    "starting_year": 2008,
+    "starting_team": "OAK",
+    "ending_year": 2008,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Christopher Cory",
+    "starting_year": 1993,
+    "starting_team": "DET",
+    "ending_year": 2008,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Matthew Christian",
+    "starting_year": 1997,
+    "starting_team": "SLN",
+    "ending_year": 2008,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Callix Sadeaq",
+    "starting_year": 2008,
+    "starting_team": "SDN",
+    "ending_year": 2008,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Jose Carlos",
+    "starting_year": 2008,
+    "starting_team": "SDN",
+    "ending_year": 2008,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Tadahito",
+    "starting_year": 2005,
+    "starting_team": "CHA",
+    "ending_year": 2008,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Jose Angel",
+    "starting_year": 1997,
+    "starting_team": "MON",
+    "ending_year": 2008,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Jose Rondon",
+    "starting_year": 2004,
+    "starting_team": "PIT",
+    "ending_year": 2008,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Ray",
+    "starting_year": 1995,
+    "starting_team": "CHA",
+    "ending_year": 2008,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "David Ray",
+    "starting_year": 1999,
+    "starting_team": "CLE",
+    "ending_year": 2008,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Keiichi",
+    "starting_year": 2005,
+    "starting_team": "OAK",
+    "ending_year": 2008,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Enrico Aliceno",
+    "starting_year": 2008,
+    "starting_team": "SLN",
+    "ending_year": 2008,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Rafael Alberto",
+    "starting_year": 1995,
+    "starting_team": "ML4",
+    "ending_year": 2008,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Kazuo",
+    "starting_year": 2008,
+    "starting_team": "TEX",
+    "ending_year": 2008,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Dmitri Dell",
+    "starting_year": 1996,
+    "starting_team": "SLN",
+    "ending_year": 2008,
+    "ending_team": "WAS"
+  },
+  {
+    "namegiven": "David Jeffrey",
+    "starting_year": 2004,
+    "starting_team": "MIL",
+    "ending_year": 2009,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Ryan Paul",
+    "starting_year": 2001,
+    "starting_team": "TOR",
+    "ending_year": 2009,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "James Ross",
+    "starting_year": 1997,
+    "starting_team": "KCA",
+    "ending_year": 2009,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Jermaine Terrell",
+    "starting_year": 1996,
+    "starting_team": "ATL",
+    "ending_year": 2009,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "David Christopher",
+    "starting_year": 2009,
+    "starting_team": "CHN",
+    "ending_year": 2009,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Joshua LaRoy",
+    "starting_year": 2006,
+    "starting_team": "SDN",
+    "ending_year": 2009,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Masahide",
+    "starting_year": 2008,
+    "starting_team": "CLE",
+    "ending_year": 2009,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Alan Duane",
+    "starting_year": 1992,
+    "starting_team": "CLE",
+    "ending_year": 2009,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Glendon James",
+    "starting_year": 1997,
+    "starting_team": "KCA",
+    "ending_year": 2009,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Ryan Andrew",
+    "starting_year": 2005,
+    "starting_team": "COL",
+    "ending_year": 2009,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Kelvim Jose",
+    "starting_year": 1997,
+    "starting_team": "TOR",
+    "ending_year": 2009,
+    "ending_team": "LAA"
+  },
+  {
+    "namegiven": "Justin James",
+    "starting_year": 1998,
+    "starting_team": "FLO",
+    "ending_year": 2009,
+    "ending_team": "LAA"
+  },
+  {
+    "namegiven": "Mark David",
+    "starting_year": 1995,
+    "starting_team": "ML4",
+    "ending_year": 2009,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Jason David",
+    "starting_year": 1995,
+    "starting_team": "ATL",
+    "ending_year": 2009,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Braden LaVern",
+    "starting_year": 1998,
+    "starting_team": "SLN",
+    "ending_year": 2009,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Michael Seth",
+    "starting_year": 2003,
+    "starting_team": "TBA",
+    "ending_year": 2009,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Anthony Nomar",
+    "starting_year": 1996,
+    "starting_team": "BOS",
+    "ending_year": 2009,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Scott Alan",
+    "starting_year": 1997,
+    "starting_team": "CHA",
+    "ending_year": 2009,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Tyler Kali",
+    "starting_year": 2004,
+    "starting_team": "NYN",
+    "ending_year": 2009,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Cornelius Clifford",
+    "starting_year": 1993,
+    "starting_team": "MON",
+    "ending_year": 2009,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Brian Stephen",
+    "starting_year": 1995,
+    "starting_team": "CLE",
+    "ending_year": 2009,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Edwin A.",
+    "starting_year": 2009,
+    "starting_team": "SDN",
+    "ending_year": 2009,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Walter",
+    "starting_year": 2009,
+    "starting_team": "SDN",
+    "ending_year": 2009,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Kenji",
+    "starting_year": 2006,
+    "starting_team": "SEA",
+    "ending_year": 2009,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Richard Santo",
+    "starting_year": 1995,
+    "starting_team": "SFN",
+    "ending_year": 2009,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Chadwick Lee",
+    "starting_year": 1998,
+    "starting_team": "CHA",
+    "ending_year": 2009,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Troy Eugene",
+    "starting_year": 1995,
+    "starting_team": "CAL",
+    "ending_year": 2009,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Edward Adrain",
+    "starting_year": 1993,
+    "starting_team": "MIN",
+    "ending_year": 2009,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Kevin Charles",
+    "starting_year": 1998,
+    "starting_team": "FLO",
+    "ending_year": 2009,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Robert Victor",
+    "starting_year": 1999,
+    "starting_team": "BAL",
+    "ending_year": 2009,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Elijah David",
+    "starting_year": 2007,
+    "starting_team": "TBA",
+    "ending_year": 2009,
+    "ending_team": "WAS"
+  },
+  {
+    "namegiven": "Julian",
+    "starting_year": 1993,
+    "starting_team": "CLE",
+    "ending_year": 2009,
+    "ending_team": "WAS"
+  },
+  {
+    "namegiven": "Bobby Dean",
+    "starting_year": 1998,
+    "starting_team": "CHA",
+    "ending_year": 2010,
+    "ending_team": "ARI"
+  },
+  {
+    "namegiven": "Troy",
+    "starting_year": 1998,
+    "starting_team": "ANA",
+    "ending_year": 2010,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Kenshin",
+    "starting_year": 2009,
+    "starting_team": "ATL",
+    "ending_year": 2010,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "William Edward",
+    "starting_year": 1995,
+    "starting_team": "HOU",
+    "ending_year": 2010,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Scott David",
+    "starting_year": 1999,
+    "starting_team": "ANA",
+    "ending_year": 2010,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Carlos",
+    "starting_year": 2002,
+    "starting_team": "PHI",
+    "ending_year": 2010,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Michael George",
+    "starting_year": 1999,
+    "starting_team": "MIN",
+    "ending_year": 2010,
+    "ending_team": "CIN"
+  },
+  {
+    "namegiven": "Mark James",
+    "starting_year": 1995,
+    "starting_team": "MON",
+    "ending_year": 2010,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Michael Patrick",
+    "starting_year": 1998,
+    "starting_team": "FLO",
+    "ending_year": 2010,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Joel Martin",
+    "starting_year": 2006,
+    "starting_team": "DET",
+    "ending_year": 2010,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Brian David",
+    "starting_year": 2007,
+    "starting_team": "ARI",
+    "ending_year": 2010,
+    "ending_team": "FLO"
+  },
+  {
+    "namegiven": "Kazuo",
+    "starting_year": 2004,
+    "starting_team": "NYN",
+    "ending_year": 2010,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Cory",
+    "starting_year": 2005,
+    "starting_team": "COL",
+    "ending_year": 2010,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Brian Patrick",
+    "starting_year": 2006,
+    "starting_team": "NYN",
+    "ending_year": 2010,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Jose Manuel",
+    "starting_year": 1997,
+    "starting_team": "PIT",
+    "ending_year": 2010,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Jason Daniel",
+    "starting_year": 1996,
+    "starting_team": "PIT",
+    "ending_year": 2010,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Gilbert Allen",
+    "starting_year": 1999,
+    "starting_team": "SEA",
+    "ending_year": 2010,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Ryan Dean",
+    "starting_year": 2007,
+    "starting_team": "PHI",
+    "ending_year": 2010,
+    "ending_team": "LAA"
+  },
+  {
+    "namegiven": "Garret Joseph",
+    "starting_year": 1994,
+    "starting_team": "CAL",
+    "ending_year": 2010,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Bradley David",
+    "starting_year": 1993,
+    "starting_team": "SDN",
+    "ending_year": 2010,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Carlos",
+    "starting_year": 2010,
+    "starting_team": "LAN",
+    "ending_year": 2010,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Jeffrey Charles",
+    "starting_year": 1999,
+    "starting_team": "DET",
+    "ending_year": 2010,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "James Patrick",
+    "starting_year": 1993,
+    "starting_team": "CAL",
+    "ending_year": 2010,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Trevor William",
+    "starting_year": 1993,
+    "starting_team": "FLO",
+    "ending_year": 2010,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "David Richard",
+    "starting_year": 1999,
+    "starting_team": "CLE",
+    "ending_year": 2010,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Gregory Owen",
+    "starting_year": 1995,
+    "starting_team": "BAL",
+    "ending_year": 2010,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Chan Ho",
+    "starting_year": 1994,
+    "starting_team": "LAN",
+    "ending_year": 2010,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Dwight Randolph",
+    "starting_year": 1998,
+    "starting_team": "TBA",
+    "ending_year": 2010,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Luis Antonio",
+    "starting_year": 1996,
+    "starting_team": "FLO",
+    "ending_year": 2010,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Fernando Alexis",
+    "starting_year": 2006,
+    "starting_team": "HOU",
+    "ending_year": 2010,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Fernando",
+    "starting_year": 1997,
+    "starting_team": "TEX",
+    "ending_year": 2010,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Akinori",
+    "starting_year": 2007,
+    "starting_team": "TBA",
+    "ending_year": 2010,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "John Patrick",
+    "starting_year": 2010,
+    "starting_team": "PIT",
+    "ending_year": 2010,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "David Mark",
+    "starting_year": 2001,
+    "starting_team": "ANA",
+    "ending_year": 2010,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "George Kenneth",
+    "starting_year": 1989,
+    "starting_team": "SEA",
+    "ending_year": 2010,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Michael John",
+    "starting_year": 1995,
+    "starting_team": "KCA",
+    "ending_year": 2010,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Sean Thomas",
+    "starting_year": 2007,
+    "starting_team": "SEA",
+    "ending_year": 2010,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Michael Jason",
+    "starting_year": 1999,
+    "starting_team": "CIN",
+    "ending_year": 2010,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Jesse Logan",
+    "starting_year": 2010,
+    "starting_team": "WAS",
+    "ending_year": 2010,
+    "ending_team": "WAS"
+  },
+  {
+    "namegiven": "Cristian",
+    "starting_year": 1999,
+    "starting_team": "MIN",
+    "ending_year": 2010,
+    "ending_team": "WAS"
+  },
+  {
+    "namegiven": "Michael Terrance",
+    "starting_year": 1995,
+    "starting_team": "CHA",
+    "ending_year": 2011,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Ramon Abraham",
+    "starting_year": 1999,
+    "starting_team": "FLO",
+    "ending_year": 2011,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Mark Thomas",
+    "starting_year": 2005,
+    "starting_team": "KCA",
+    "ending_year": 2011,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Magglio",
+    "starting_year": 1997,
+    "starting_team": "CHA",
+    "ending_year": 2011,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Javier Carlos",
+    "starting_year": 1998,
+    "starting_team": "MON",
+    "ending_year": 2011,
+    "ending_team": "FLO"
+  },
+  {
+    "namegiven": "Kanekoa Jacob",
+    "starting_year": 2010,
+    "starting_team": "SEA",
+    "ending_year": 2011,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Jay Jonathan",
+    "starting_year": 2001,
+    "starting_team": "BAL",
+    "ending_year": 2011,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Christopher Matthew",
+    "starting_year": 2008,
+    "starting_team": "MIN",
+    "ending_year": 2011,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Gustavo Eduardo",
+    "starting_year": 2007,
+    "starting_team": "CHA",
+    "ending_year": 2011,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Taylor",
+    "starting_year": 2006,
+    "starting_team": "HOU",
+    "ending_year": 2011,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Bradley Mark",
+    "starting_year": 2011,
+    "starting_team": "NYN",
+    "ending_year": 2011,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Landon Reed",
+    "starting_year": 2009,
+    "starting_team": "OAK",
+    "ending_year": 2011,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Michael James",
+    "starting_year": 2004,
+    "starting_team": "CHN",
+    "ending_year": 2011,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Michael John",
+    "starting_year": 2011,
+    "starting_team": "PIT",
+    "ending_year": 2011,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Jason Cory",
+    "starting_year": 2009,
+    "starting_team": "PIT",
+    "ending_year": 2011,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Joshua Joel",
+    "starting_year": 2011,
+    "starting_team": "PIT",
+    "ending_year": 2011,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Cedric Scott",
+    "starting_year": 2011,
+    "starting_team": "SDN",
+    "ending_year": 2011,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Trever Douglas",
+    "starting_year": 1996,
+    "starting_team": "DET",
+    "ending_year": 2011,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Manuel Aristides",
+    "starting_year": 1993,
+    "starting_team": "CLE",
+    "ending_year": 2011,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Arthur Lee",
+    "starting_year": 1991,
+    "starting_team": "BAL",
+    "ending_year": 2011,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Mason Reed",
+    "starting_year": 2011,
+    "starting_team": "TEX",
+    "ending_year": 2011,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Brian Michael",
+    "starting_year": 2011,
+    "starting_team": "WAS",
+    "ending_year": 2011,
+    "ending_team": "WAS"
+  },
+  {
+    "namegiven": "Geoffrey Edward",
+    "starting_year": 1999,
+    "starting_team": "MON",
+    "ending_year": 2012,
+    "ending_team": "ARI"
+  },
+  {
+    "namegiven": "Larry Wayne",
+    "starting_year": 1993,
+    "starting_team": "ATL",
+    "ending_year": 2012,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Jack Eugene",
+    "starting_year": 2001,
+    "starting_team": "PIT",
+    "ending_year": 2012,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Christopher John",
+    "starting_year": 2011,
+    "starting_team": "SLN",
+    "ending_year": 2012,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Kosuke",
+    "starting_year": 2008,
+    "starting_team": "CHN",
+    "ending_year": 2012,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Lendy Enrique",
+    "starting_year": 2012,
+    "starting_team": "CHN",
+    "ending_year": 2012,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Kerry Lee",
+    "starting_year": 1998,
+    "starting_team": "CHN",
+    "ending_year": 2012,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Scott Bruce",
+    "starting_year": 1996,
+    "starting_team": "PHI",
+    "ending_year": 2012,
+    "ending_team": "CIN"
+  },
+  {
+    "namegiven": "Jamie",
+    "starting_year": 1986,
+    "starting_team": "CHN",
+    "ending_year": 2012,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Travis George",
+    "starting_year": 2007,
+    "starting_team": "OAK",
+    "ending_year": 2012,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Carlos",
+    "starting_year": 1999,
+    "starting_team": "CHA",
+    "ending_year": 2012,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Jason Derik",
+    "starting_year": 1995,
+    "starting_team": "NYN",
+    "ending_year": 2012,
+    "ending_team": "LAA"
+  },
+  {
+    "namegiven": "Ivan",
+    "starting_year": 2011,
+    "starting_team": "LAN",
+    "ending_year": 2012,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Adam Thomas",
+    "starting_year": 1999,
+    "starting_team": "SLN",
+    "ending_year": 2012,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Sean Patrick",
+    "starting_year": 2002,
+    "starting_team": "SDN",
+    "ending_year": 2012,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Carl Anthony",
+    "starting_year": 1998,
+    "starting_team": "MON",
+    "ending_year": 2012,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Andruw Rudolf",
+    "starting_year": 1996,
+    "starting_team": "ATL",
+    "ending_year": 2012,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Miguel Jerez",
+    "starting_year": 1992,
+    "starting_team": "PIT",
+    "ending_year": 2012,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Daniel",
+    "starting_year": 2003,
+    "starting_team": "KCA",
+    "ending_year": 2012,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Johan Alexander",
+    "starting_year": 2000,
+    "starting_team": "MIN",
+    "ending_year": 2012,
+    "ending_team": "NYN"
+  },
+  {
+    "namegiven": "Jordan",
+    "starting_year": 2010,
+    "starting_team": "ARI",
+    "ending_year": 2012,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Kenneth David",
+    "starting_year": 2010,
+    "starting_team": "PHI",
+    "ending_year": 2012,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "James Howard",
+    "starting_year": 1991,
+    "starting_team": "CLE",
+    "ending_year": 2012,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Guillermo",
+    "starting_year": 1999,
+    "starting_team": "MON",
+    "ending_year": 2012,
+    "ending_team": "SFN"
+  },
+  {
+    "namegiven": "Christopher John",
+    "starting_year": 1997,
+    "starting_team": "TOR",
+    "ending_year": 2012,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Erik Jordan",
+    "starting_year": 2012,
+    "starting_team": "SLN",
+    "ending_year": 2012,
+    "ending_team": "SLN"
+  },
+  {
+    "namegiven": "Francisco Javier",
+    "starting_year": 1999,
+    "starting_team": "DET",
+    "ending_year": 2012,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Omar Enrique",
+    "starting_year": 1989,
+    "starting_team": "SEA",
+    "ending_year": 2012,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Jesus Miguel",
+    "starting_year": 2007,
+    "starting_team": "WAS",
+    "ending_year": 2012,
+    "ending_team": "WAS"
+  },
+  {
+    "namegiven": "Eric Scott",
+    "starting_year": 2002,
+    "starting_team": "TOR",
+    "ending_year": 2013,
+    "ending_team": "ARI"
+  },
+  {
+    "namegiven": "Luis Ignacio",
+    "starting_year": 2003,
+    "starting_team": "MON",
+    "ending_year": 2013,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Andrew Scott",
+    "starting_year": 2009,
+    "starting_team": "OAK",
+    "ending_year": 2013,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Larry Dewayne",
+    "starting_year": 2000,
+    "starting_team": "TOR",
+    "ending_year": 2013,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Todd Lynn",
+    "starting_year": 1997,
+    "starting_team": "COL",
+    "ending_year": 2013,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Ramon Jose",
+    "starting_year": 1999,
+    "starting_team": "OAK",
+    "ending_year": 2013,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Octavio Eduardo",
+    "starting_year": 1999,
+    "starting_team": "NYN",
+    "ending_year": 2013,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Brayan Rene",
+    "starting_year": 2011,
+    "starting_team": "DET",
+    "ending_year": 2013,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Rhiner Allen",
+    "starting_year": 2012,
+    "starting_team": "HOU",
+    "ending_year": 2013,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Miguel Odalis",
+    "starting_year": 1997,
+    "starting_team": "OAK",
+    "ending_year": 2013,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Ramon Jose",
+    "starting_year": 1999,
+    "starting_team": "OAK",
+    "ending_year": 2013,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Placido Enrique",
+    "starting_year": 1998,
+    "starting_team": "SLN",
+    "ending_year": 2013,
+    "ending_team": "MIA"
+  },
+  {
+    "namegiven": "Jon Erich",
+    "starting_year": 2002,
+    "starting_team": "CHA",
+    "ending_year": 2013,
+    "ending_team": "MIA"
+  },
+  {
+    "namegiven": "Kyle Trent",
+    "starting_year": 2013,
+    "starting_team": "MIA",
+    "ending_year": 2013,
+    "ending_team": "MIA"
+  },
+  {
+    "namegiven": "David Lee",
+    "starting_year": 2013,
+    "starting_team": "NYA",
+    "ending_year": 2013,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Andrew Eugene",
+    "starting_year": 1995,
+    "starting_team": "NYA",
+    "ending_year": 2013,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Mariano",
+    "starting_year": 1995,
+    "starting_team": "NYA",
+    "ending_year": 2013,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Alexander Emmanuel",
+    "starting_year": 1994,
+    "starting_team": "SEA",
+    "ending_year": 2013,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Vernon M.",
+    "starting_year": 1999,
+    "starting_team": "TOR",
+    "ending_year": 2013,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Charles Brandon",
+    "starting_year": 2001,
+    "starting_team": "DET",
+    "ending_year": 2013,
+    "ending_team": "PIT"
+  },
+  {
+    "namegiven": "Luke Brandon",
+    "starting_year": 2005,
+    "starting_team": "HOU",
+    "ending_year": 2013,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "William Lance",
+    "starting_year": 1999,
+    "starting_team": "HOU",
+    "ending_year": 2013,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Joseph",
+    "starting_year": 2013,
+    "starting_team": "TEX",
+    "ending_year": 2013,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Darren Christopher",
+    "starting_year": 1993,
+    "starting_team": "TEX",
+    "ending_year": 2013,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Ricardo",
+    "starting_year": 2009,
+    "starting_team": "TOR",
+    "ending_year": 2013,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Trevor John",
+    "starting_year": 2009,
+    "starting_team": "OAK",
+    "ending_year": 2014,
+    "ending_team": "ARI"
+  },
+  {
+    "namegiven": "Jason Alias",
+    "starting_year": 2010,
+    "starting_team": "ATL",
+    "ending_year": 2014,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Tyler Brock",
+    "starting_year": 2012,
+    "starting_team": "ATL",
+    "ending_year": 2014,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Ramiro Gauna",
+    "starting_year": 2009,
+    "starting_team": "NYA",
+    "ending_year": 2014,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Daniel Cooley",
+    "starting_year": 2006,
+    "starting_team": "FLO",
+    "ending_year": 2014,
+    "ending_team": "ATL"
+  },
+  {
+    "namegiven": "Wei-Yin",
+    "starting_year": 2012,
+    "starting_team": "BAL",
+    "ending_year": 2014,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Ryan Edward",
+    "starting_year": 2012,
+    "starting_team": "BAL",
+    "ending_year": 2014,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "James Jerry",
+    "starting_year": 2005,
+    "starting_team": "MIL",
+    "ending_year": 2014,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Nicholas William",
+    "starting_year": 2006,
+    "starting_team": "BAL",
+    "ending_year": 2014,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Timothy J.",
+    "starting_year": 2013,
+    "starting_team": "BAL",
+    "ending_year": 2014,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Darren Christopher",
+    "starting_year": 2008,
+    "starting_team": "LAA",
+    "ending_year": 2014,
+    "ending_team": "BAL"
+  },
+  {
+    "namegiven": "Allen Thomas",
+    "starting_year": 2010,
+    "starting_team": "SLN",
+    "ending_year": 2014,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Koji",
+    "starting_year": 2009,
+    "starting_team": "BAL",
+    "ending_year": 2014,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Shane Patrick",
+    "starting_year": 2003,
+    "starting_team": "SDN",
+    "ending_year": 2014,
+    "ending_team": "BOS"
+  },
+  {
+    "namegiven": "Jose Dariel",
+    "starting_year": 2014,
+    "starting_team": "CHA",
+    "ending_year": 2014,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "John William",
+    "starting_year": 2007,
+    "starting_team": "CHA",
+    "ending_year": 2014,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Alejandro Alberto",
+    "starting_year": 2007,
+    "starting_team": "FLO",
+    "ending_year": 2014,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Leury",
+    "starting_year": 2013,
+    "starting_team": "TEX",
+    "ending_year": 2014,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Matthew Raymond",
+    "starting_year": 2007,
+    "starting_team": "FLO",
+    "ending_year": 2014,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Alexei Fernando",
+    "starting_year": 2008,
+    "starting_team": "CHA",
+    "ending_year": 2014,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Marcus Andrew",
+    "starting_year": 2013,
+    "starting_team": "CHA",
+    "ending_year": 2014,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Donald Tyrone",
+    "starting_year": 2009,
+    "starting_team": "PIT",
+    "ending_year": 2014,
+    "ending_team": "CHA"
+  },
+  {
+    "namegiven": "Kyuji",
+    "starting_year": 2013,
+    "starting_team": "CHN",
+    "ending_year": 2014,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Hector Luis",
+    "starting_year": 2013,
+    "starting_team": "CHN",
+    "ending_year": 2014,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "James Clayton",
+    "starting_year": 2010,
+    "starting_team": "CHN",
+    "ending_year": 2014,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Dequam LaWesley",
+    "starting_year": 2008,
+    "starting_team": "HOU",
+    "ending_year": 2014,
+    "ending_team": "CHN"
+  },
+  {
+    "namegiven": "Johnny",
+    "starting_year": 2008,
+    "starting_team": "CIN",
+    "ending_year": 2014,
+    "ending_team": "CIN"
+  },
+  {
+    "namegiven": "Sean Christopher",
+    "starting_year": 2006,
+    "starting_team": "CHN",
+    "ending_year": 2014,
+    "ending_team": "CIN"
+  },
+  {
+    "namegiven": "Logan Jared",
+    "starting_year": 2010,
+    "starting_team": "CIN",
+    "ending_year": 2014,
+    "ending_team": "CIN"
+  },
+  {
+    "namegiven": "Elliot Tyler",
+    "starting_year": 2008,
+    "starting_team": "TBA",
+    "ending_year": 2014,
+    "ending_team": "CLE"
+  },
+  {
+    "namegiven": "Brett Franklin",
+    "starting_year": 2009,
+    "starting_team": "OAK",
+    "ending_year": 2014,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Boone",
+    "starting_year": 2006,
+    "starting_team": "CHA",
+    "ending_year": 2014,
+    "ending_team": "COL"
+  },
+  {
+    "namegiven": "Jose Miguel",
+    "starting_year": 2003,
+    "starting_team": "FLO",
+    "ending_year": 2014,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Alexander",
+    "starting_year": 1998,
+    "starting_team": "FLO",
+    "ending_year": 2014,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Donald Thomas",
+    "starting_year": 2007,
+    "starting_team": "PIT",
+    "ending_year": 2014,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Ian Michael",
+    "starting_year": 2006,
+    "starting_team": "TEX",
+    "ending_year": 2014,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Joseph Michael",
+    "starting_year": 1999,
+    "starting_team": "SFN",
+    "ending_year": 2014,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Frederick Alfred",
+    "starting_year": 2009,
+    "starting_team": "DET",
+    "ending_year": 2014,
+    "ending_team": "DET"
+  },
+  {
+    "namegiven": "Joshua David",
+    "starting_year": 2013,
+    "starting_team": "HOU",
+    "ending_year": 2014,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Marwin Javier",
+    "starting_year": 2012,
+    "starting_team": "HOU",
+    "ending_year": 2014,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Jonathan Lee",
+    "starting_year": 2014,
+    "starting_team": "HOU",
+    "ending_year": 2014,
+    "ending_team": "HOU"
+  },
+  {
+    "namegiven": "Norichika",
+    "starting_year": 2012,
+    "starting_team": "MIL",
+    "ending_year": 2014,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Timothy Michael",
+    "starting_year": 2011,
+    "starting_team": "KCA",
+    "ending_year": 2014,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Aaron James",
+    "starting_year": 2011,
+    "starting_team": "KCA",
+    "ending_year": 2014,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "Alex Jonathan",
+    "starting_year": 2007,
+    "starting_team": "KCA",
+    "ending_year": 2014,
+    "ending_team": "KCA"
+  },
+  {
+    "namegiven": "David Richard",
+    "starting_year": 2009,
+    "starting_team": "SLN",
+    "ending_year": 2014,
+    "ending_team": "LAA"
+  },
+  {
+    "namegiven": "Joshua Holt",
+    "starting_year": 2007,
+    "starting_team": "CIN",
+    "ending_year": 2014,
+    "ending_team": "LAA"
+  },
+  {
+    "namegiven": "Jose Alberto",
+    "starting_year": 2001,
+    "starting_team": "SLN",
+    "ending_year": 2014,
+    "ending_team": "LAA"
+  },
+  {
+    "namegiven": "Joseph Michael",
+    "starting_year": 2007,
+    "starting_team": "NYN",
+    "ending_year": 2014,
+    "ending_team": "LAA"
+  },
+  {
+    "namegiven": "Andrew Edward",
+    "starting_year": 2010,
+    "starting_team": "MIN",
+    "ending_year": 2014,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Alexander",
+    "starting_year": 2014,
+    "starting_team": "LAN",
+    "ending_year": 2014,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Yasiel",
+    "starting_year": 2013,
+    "starting_team": "LAN",
+    "ending_year": 2014,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Hyun-jin",
+    "starting_year": 2013,
+    "starting_team": "LAN",
+    "ending_year": 2014,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Jamey Alan",
+    "starting_year": 1996,
+    "starting_team": "COL",
+    "ending_year": 2014,
+    "ending_team": "LAN"
+  },
+  {
+    "namegiven": "Jeffrey Glen",
+    "starting_year": 2005,
+    "starting_team": "COL",
+    "ending_year": 2014,
+    "ending_team": "MIA"
+  },
+  {
+    "namegiven": "Khristopher Adrian",
+    "starting_year": 2013,
+    "starting_team": "MIL",
+    "ending_year": 2014,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Aramis",
+    "starting_year": 1998,
+    "starting_team": "PIT",
+    "ending_year": 2014,
+    "ending_team": "MIL"
+  },
+  {
+    "namegiven": "Levi Jared",
+    "starting_year": 2007,
+    "starting_team": "CIN",
+    "ending_year": 2014,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Brian Matthew",
+    "starting_year": 2009,
+    "starting_team": "MIN",
+    "ending_year": 2014,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Aaron Michael",
+    "starting_year": 2013,
+    "starting_team": "MIN",
+    "ending_year": 2014,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Joseph Patrick",
+    "starting_year": 2004,
+    "starting_team": "MIN",
+    "ending_year": 2014,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Carlos Enrique",
+    "starting_year": 2006,
+    "starting_team": "FLO",
+    "ending_year": 2014,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Jordan James",
+    "starting_year": 2009,
+    "starting_team": "ATL",
+    "ending_year": 2014,
+    "ending_team": "MIN"
+  },
+  {
+    "namegiven": "Shawn Andrew",
+    "starting_year": 2009,
+    "starting_team": "SEA",
+    "ending_year": 2014,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Hiroki",
+    "starting_year": 2008,
+    "starting_team": "LAN",
+    "ending_year": 2014,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Ichiro",
+    "starting_year": 2001,
+    "starting_team": "SEA",
+    "ending_year": 2014,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Masahiro",
+    "starting_year": 2014,
+    "starting_team": "NYA",
+    "ending_year": 2014,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Mark Charles",
+    "starting_year": 2003,
+    "starting_team": "TEX",
+    "ending_year": 2014,
+    "ending_team": "NYA"
+  },
+  {
+    "namegiven": "Bartolo",
+    "starting_year": 1997,
+    "starting_team": "CLE",
+    "ending_year": 2014,
+    "ending_team": "NYM"
+  },
+  {
+    "namegiven": "Daisuke",
+    "starting_year": 2007,
+    "starting_team": "BOS",
+    "ending_year": 2014,
+    "ending_team": "NYM"
+  },
+  {
+    "namegiven": "Scott Adam",
+    "starting_year": 2013,
+    "starting_team": "NYN",
+    "ending_year": 2014,
+    "ending_team": "NYM"
+  },
+  {
+    "namegiven": "Ruben Dario",
+    "starting_year": 2010,
+    "starting_team": "NYN",
+    "ending_year": 2014,
+    "ending_team": "NYM"
+  },
+  {
+    "namegiven": "Yoenis",
+    "starting_year": 2012,
+    "starting_team": "OAK",
+    "ending_year": 2014,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Lucas John",
+    "starting_year": 2009,
+    "starting_team": "SDN",
+    "ending_year": 2014,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Daniel Anthony",
+    "starting_year": 2012,
+    "starting_team": "SFN",
+    "ending_year": 2014,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Stephen Guy",
+    "starting_year": 2012,
+    "starting_team": "TBA",
+    "ending_year": 2014,
+    "ending_team": "OAK"
+  },
+  {
+    "namegiven": "Allan James",
+    "starting_year": 1999,
+    "starting_team": "FLO",
+    "ending_year": 2014,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Freddy Jose",
+    "starting_year": 2012,
+    "starting_team": "PHI",
+    "ending_year": 2014,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Miguel Alfredo",
+    "starting_year": 2014,
+    "starting_team": "PHI",
+    "ending_year": 2014,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Jayson Truitt Edward",
+    "starting_year": 2008,
+    "starting_team": "COL",
+    "ending_year": 2014,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Chase Cameron",
+    "starting_year": 2003,
+    "starting_team": "PHI",
+    "ending_year": 2014,
+    "ending_team": "PHI"
+  },
+  {
+    "namegiven": "Everth",
+    "starting_year": 2009,
+    "starting_team": "SDN",
+    "ending_year": 2014,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Tyson William",
+    "starting_year": 2010,
+    "starting_team": "OAK",
+    "ending_year": 2014,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Huston Lowell",
+    "starting_year": 2005,
+    "starting_team": "OAK",
+    "ending_year": 2014,
+    "ending_team": "SDN"
+  },
+  {
+    "namegiven": "Joseph Ronald",
+    "starting_year": 2001,
+    "starting_team": "PIT",
+    "ending_year": 2014,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Hisashi",
+    "starting_year": 2012,
+    "starting_team": "SEA",
+    "ending_year": 2014,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Austin Jarriel",
+    "starting_year": 2010,
+    "starting_team": "DET",
+    "ending_year": 2014,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Brandon Eugene",
+    "starting_year": 2013,
+    "starting_team": "SEA",
+    "ending_year": 2014,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Thomas Mark",
+    "starting_year": 2011,
+    "starting_team": "SEA",
+    "ending_year": 2014,
+    "ending_team": "SEA"
+  },
+  {
+    "namegiven": "Jeremy David",
+    "starting_year": 2002,
+    "starting_team": "KCA",
+    "ending_year": 2014,
+    "ending_team": "SFG"
+  },
+  {
+    "namegiven": "Brandon Kyle",
+    "starting_year": 2011,
+    "starting_team": "SFN",
+    "ending_year": 2014,
+    "ending_team": "SFG"
+  },
+  {
+    "namegiven": "Gregor Miguel",
+    "starting_year": 2008,
+    "starting_team": "ATL",
+    "ending_year": 2014,
+    "ending_team": "SFG"
+  },
+  {
+    "namegiven": "Timothy Adam",
+    "starting_year": 1999,
+    "starting_team": "OAK",
+    "ending_year": 2014,
+    "ending_team": "SFG"
+  },
+  {
+    "namegiven": "Javier Alfonso",
+    "starting_year": 2003,
+    "starting_team": "COL",
+    "ending_year": 2014,
+    "ending_team": "SFG"
+  },
+  {
+    "namegiven": "Angel Manuel",
+    "starting_year": 2006,
+    "starting_team": "CHN",
+    "ending_year": 2014,
+    "ending_team": "SFG"
+  },
+  {
+    "namegiven": "Joshua William",
+    "starting_year": 2011,
+    "starting_team": "SEA",
+    "ending_year": 2014,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Jose Benjamin",
+    "starting_year": 1999,
+    "starting_team": "CHN",
+    "ending_year": 2014,
+    "ending_team": "TBA"
+  },
+  {
+    "namegiven": "Elvis Augusto",
+    "starting_year": 2009,
+    "starting_team": "TEX",
+    "ending_year": 2014,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Adrian",
+    "starting_year": 1998,
+    "starting_team": "LAN",
+    "ending_year": 2014,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Sefat Farid Yu",
+    "starting_year": 2012,
+    "starting_team": "TEX",
+    "ending_year": 2014,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Robert Charles",
+    "starting_year": 2012,
+    "starting_team": "TEX",
+    "ending_year": 2014,
+    "ending_team": "TEX"
+  },
+  {
+    "namegiven": "Jose Antonio",
+    "starting_year": 2004,
+    "starting_team": "BAL",
+    "ending_year": 2014,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Brandon John",
+    "starting_year": 2007,
+    "starting_team": "SEA",
+    "ending_year": 2014,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Colby Ryan",
+    "starting_year": 2009,
+    "starting_team": "SLN",
+    "ending_year": 2014,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "Sergio Jose",
+    "starting_year": 2010,
+    "starting_team": "CHA",
+    "ending_year": 2014,
+    "ending_team": "TOR"
+  },
+  {
+    "namegiven": "David Adam",
+    "starting_year": 2004,
+    "starting_team": "ATL",
+    "ending_year": 2014,
+    "ending_team": "WAS"
+  }
+]

@@ -141,13 +141,14 @@ WITH birthdate_cte AS ( SELECT
                         EXTRACT(YEAR FROM AGE(finalGame, debut)) AS career_length
                     FROM 
                         birthdate_cte
+                    
                     )
 
 SELECT nameGiven, starting_age, 
        ending_age, career_length
 
 FROM games_ctes 
-WHERE starting_age IS NOT NULL
+WHERE starting_age IS NOT NULL 
 ORDER BY career_length DESC;
 
 
@@ -161,11 +162,7 @@ FROM players AS p INNER join salaries AS sd
      AND EXTRACT(YEAR FROM p.debut) = sd.yearid
      INNER JOIN salaries AS sf 
      ON p.playerid = sf.playerid
-     AND EXTRACT (YEAR FROM p.finalGame) = sf.yearid
-
-SELECT * 
-
-FROM salaries
+     AND EXTRACT (YEAR FROM p.finalGame) = sf.yearid;
 
 
 -- 4. How many players started and ended on the same team and also played for over a decade?
