@@ -420,4 +420,20 @@ This analysis examines how the average height and weight of players at their deb
 * Advancements in training and sports science.
 * Evolution of playing styles.
 
+## What I Learned
+
+Throughout this project, I have deepened my understanding of advanced SQL techniques, including:
+
+- **Complex Joins**: Mastered the use of various join types to combine data from multiple tables effectively.
+
+- **Subqueries**: Gained proficiency in writing subqueries to perform nested queries and enhance data retrieval processes.
+
+- **Window Functions**: Learned to utilize window functions for performing calculations across sets of table rows related to the current row.
+
+- **Common Table Expressions (CTEs)**: Developed skills in using CTEs to write more readable and maintainable queries.
+
+- **Performance Optimization**: Acquired techniques to optimize query performance, ensuring efficient data retrieval and manipulation.
+
+These skills were applied in a hands-on project, allowing me to solve real-world data challenges and demonstrate advanced data analysis and reporting capabilities.
+
 
